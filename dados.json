@@ -1,0 +1,173 @@
+{
+  "team": [
+    { "name": "Carina Maia", "role": "Designer", "foto": "uploads/perfil3.jpg", "bio": "Quarenta anos de banco. É das mãos dele que saem as juntas que se sentem mas não se veem.", "grad": "radial-gradient(circle at 35% 30%,#5a4632,#241c16)" },
+    { "name": "Luís Maia", "role": "Coordenador de Operação", "foto": "uploads/perfil3.jpg", "bio": "Traduz a conversa em desenho. Cada peça passa pela sua prancheta antes de chegar à madeira.", "grad": "radial-gradient(circle at 35% 30%,#6a523a,#2a1f15)" },
+    { "name": "Rafael Maia", "role": "Operador", "foto": "uploads/perfil3.jpg", "bio": "Coordena a oficina e o tempo da madeira. Garante que nada sai antes de estar pronto.", "grad": "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)" }
+  ],
+  "colecoes": {
+    "Cadeiras_Poltronas": {
+      "cadeira1": {
+        "id": "cadeira-1",
+        "nome": "Cadeira 1",
+        "descricao": "Cadeira Daisy com um design moderno, conforto envolvente e um toque de sofisticação em cada detalhe.",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira1_1.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira1_2.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira1_3.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira1_4.jpg"
+        ]
+      },
+      "cadeira2": {
+        "id": "cadeira-2",
+        "nome": "Cadeira 2",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira2_1.jpg"
+        ]
+      },
+      "cadeiras1": {
+        "id": "cadeiras-1",
+        "nome": "Cadeiras 1",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/Cadeiras1_1.png"
+        ]
+      },
+      "chaise1": {
+        "id": "chaise-1",
+        "nome": "Chaise 1",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/chaise1_1.jpg",
+          "uploads/Cadeiras_Poltronas/chaise1_2.jpg",
+          "uploads/Cadeiras_Poltronas/chaise1_3.jpg"
+        ]
+      },
+      "poltrona1": {
+        "id": "poltrona-1",
+        "nome": "Poltrona 1",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/poltrona1_1.jpg"
+        ]
+      },
+      "poltrona2": {
+        "id": "poltrona-2",
+        "nome": "Poltrona 2",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/poltrona2_1.jpg",
+          "uploads/Cadeiras_Poltronas/poltrona2_2.jpg",
+          "uploads/Cadeiras_Poltronas/poltrona2_3.jpg",
+          "uploads/Cadeiras_Poltronas/poltrona2_4.jpeg"
+        ]
+      }
+    },
+    "Camas_Quartos": {
+      "quarto1": {
+        "id": "quarto-1",
+        "nome": "Quarto 1",
+        "imagens": [
+          "uploads/Camas_Quartos/quarto1_1.jpg",
+          "uploads/Videos/video_quarto2_1.mp4"
+        ]
+      },
+      "quarto2": {
+        "id": "quarto-2",
+        "nome": "Quarto 2",
+        "imagens": [
+          "uploads/Camas_Quartos/quarto2_1.jpg"
+        ]
+      }
+    },
+    "Outros_Moveis": {
+      "movel1": {
+        "id": "movel-1",
+        "nome": "Móvel 1",
+        "imagens": [
+          "uploads/Outros_Moveis/movel1_1.jpg"
+        ]
+      },
+      "movel2": {
+        "id": "movel-2",
+        "nome": "Móvel 2",
+        "imagens": [
+          "uploads/Outros_Moveis/movel2_1.jpg"
+        ]
+      }
+    },
+    "Sofas": {
+      "sofa1": {
+        "id": "sofa-1",
+        "nome": "Sofá 1",
+        "imagens": [
+          "uploads/Sofas/sofa1_1.jpg",
+          "uploads/Sofas/sofa1_2.png",
+          "uploads/Sofas/sofa1_4.jpg",
+          "uploads/Sofas/sofa1_5.jpg"
+        ]
+      },
+      "sofa10": {
+        "id": "sofa-10",
+        "nome": "Sofá 10",
+        "imagens": [
+          "uploads/Sofas/sofa10_1.jpg"
+        ]
+      },
+      "sofa2": {
+        "id": "sofa-2",
+        "nome": "Sofá 2",
+        "imagens": [
+          "uploads/Sofas/sofa2_1.jpg"
+        ]
+      },
+      "sofa3": {
+        "id": "sofa-3",
+        "nome": "Sofá 3",
+        "imagens": [
+          "uploads/Sofas/sofa3_1.jpg"
+        ]
+      },
+      "sofa4": {
+        "id": "sofa-4",
+        "nome": "Sofá 4",
+        "imagens": [
+          "uploads/Sofas/sofa4_1.jpg",
+          "uploads/Sofas/sofa4_2.jpg"
+        ]
+      },
+      "sofa5": {
+        "id": "sofa-5",
+        "nome": "Sofá 5",
+        "imagens": [
+          "uploads/Sofas/sofa5_1.jpg",
+          "uploads/Sofas/sofa5_2.jpg"
+        ]
+      },
+      "sofa6": {
+        "id": "sofa-6",
+        "nome": "Sofá 6",
+        "imagens": [
+          "uploads/Sofas/sofa6_1.jpg"
+        ]
+      },
+      "sofa7": {
+        "id": "sofa-7",
+        "nome": "Sofá 7",
+        "imagens": [
+          "uploads/Sofas/sofa7_1.jpg",
+          "uploads/Sofas/sofa7_2.jpg"
+        ]
+      },
+      "sofa8": {
+        "id": "sofa-8",
+        "nome": "Sofá 8",
+        "imagens": [
+          "uploads/Sofas/sofa8_1.jpg"
+        ]
+      },
+      "sofa9": {
+        "id": "sofa-9",
+        "nome": "Sofá 9",
+        "imagens": [
+          "uploads/Sofas/sofa9_1.jpg"
+        ]
+      }
+    }
+  }
+}

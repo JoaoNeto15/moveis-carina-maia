@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Coleções — Móveis Carina Maia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,600;1,6..72,300;1,6..72,400;1,6..72,500;1,6..72,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ===================== NAV ===================== -->
+  <nav class="site-nav">
+    <div class="nav-bar">
+      <div class="nav-links">
+        <a href="colecoes.html" class="nav-link active">COLEÇÕES</a>
+        <a href="sobre-nos.html" class="nav-link">SOBRE NÓS</a>
+      </div>
+      <a href="index.html" class="nav-monogram">
+        <img src="assets/cm-monogram.png" alt="Móveis Carina Maia" style="height:28px;width:auto;">
+      </a>
+      <div class="nav-right"></div>
+    </div>
+    <a href="index.html" class="nav-center">
+      <img src="assets/cm-monogram.png" alt="Móveis Carina Maia" style="height:28px;width:auto;">
+    </a>
+    <button class="nav-burger" aria-label="Menu"><span></span><span></span><span></span></button>
+  </nav>
+
+  <!-- ===================== MOBILE NAV PANEL ===================== -->
+  <div class="mnav-panel">
+    <div class="mnav-top">
+      <span class="mnav-logo">Carina Maia</span>
+      <button class="mnav-close" aria-label="Fechar">×</button>
+    </div>
+    <nav class="mnav-links">
+      <a href="colecoes.html" class="mnav-link">Coleções</a>
+      <a href="sobre-nos.html" class="mnav-link">Sobre Nós</a>
+    </nav>
+    <a href="sobre-nos.html#fale-connosco" class="mnav-cta">Pedir Orçamento</a>
+  </div>
+
+  <!-- ===================== HERO ===================== -->
+  <header class="col-hero" style="width:100%;background:#221a14;padding:240px 48px 140px;display:flex;justify-content:center;position:relative;overflow:hidden;">
+    <div style="position:absolute;inset:0;z-index:0;">
+      <img src="assets/hero-bg.png" alt="" style="width:100%;height:100%;object-fit:cover;opacity:0.25;mix-blend-mode:luminosity;">
+    </div>
+    <div style="position:absolute;inset:0;z-index:1;background:linear-gradient(to bottom,rgba(34,26,20,0.5) 0%,rgba(34,26,20,0.1) 40%,rgba(34,26,20,0.1) 60%,rgba(34,26,20,0.6) 100%);"></div>
+    <div style="max-width:1100px;width:100%;text-align:center;position:relative;z-index:2;">
+      <div class="reveal" style="font-size:12px;font-weight:500;letter-spacing:0.22em;color:#e1c299;text-transform:uppercase;margin-bottom:36px;">O Catálogo</div>
+      <h1 class="reveal" style="font-family:'Newsreader',serif;font-weight:400;font-size:clamp(3rem,7vw,6rem);line-height:1.02;letter-spacing:-0.02em;color:#f0dfd6;margin-bottom:40px;">Cada peça, <span style="font-style:italic;color:#e1c299;">uma história única.</span></h1>
+      <p class="reveal" style="font-size:17px;line-height:1.7;font-weight:300;color:#d2c4bc;max-width:560px;margin:0 auto;">Trabalhos feitos à medida para clientes reais. Cada colecção nasce de uma casa, de um gesto e de uma madeira escolhida à mão.</p>
+    </div>
+  </header>
+
+  <!-- ===================== FILTROS ===================== -->
+  <section class="col-filter" style="width:100%;background:#19120c;padding:80px 48px 40px;">
+    <div class="filter-row reveal" style="max-width:1200px;margin:0 auto;display:flex;justify-content:center;gap:14px;flex-wrap:nowrap;">
+      <div class="fpill active" data-filter="todos">TODOS<span class="fcount"></span></div>
+      <div class="fpill" data-filter="Sofas">SOFÁS<span class="fcount"></span></div>
+      <div class="fpill" data-filter="Cadeiras_Poltronas">CADEIRAS &amp; POLTRONAS<span class="fcount"></span></div>
+      <div class="fpill" data-filter="Camas_Quartos">CAMAS &amp; QUARTOS<span class="fcount"></span></div>
+      <div class="fpill" data-filter="Outros_Moveis">OUTROS MÓVEIS<span class="fcount"></span></div>
+    </div>
+  </section>
+
+  <!-- ===================== GRELHA ===================== -->
+  <section class="col-gridsec" style="width:100%;background:#19120c;padding:40px 48px 160px;">
+    <div class="col-grid" id="colgrid"></div>
+  </section>
+
+  <!-- ===================== CTA ===================== -->
+  <section class="col-cta" style="width:100%;background:#19120c;padding:80px 48px 200px;display:flex;justify-content:center;">
+    <div class="reveal" style="max-width:760px;text-align:center;">
+      <h2 style="font-family:'Newsreader',serif;font-weight:400;font-size:clamp(2.4rem,4.5vw,3.6rem);line-height:1.05;color:#f0dfd6;margin-bottom:28px;">Não encontrou <span style="font-style:italic;color:#e1c299;">o que procura?</span></h2>
+      <p style="font-size:16px;line-height:1.7;font-weight:300;color:#d2c4bc;max-width:480px;margin:0 auto 48px;">Cada peça pode ser desenhada de raiz para o seu espaço. Conte-nos a sua ideia e damos-lhe forma em madeira maciça.</p>
+      <a href="sobre-nos.html#fale-connosco" class="cta-pill">PEDIR ORÇAMENTO</a>
+    </div>
+  </section>
+
+  <!-- ===================== FOOTER ===================== -->
+  <footer class="site-footer">
+    <div style="display:flex;flex-direction:column;gap:24px;">
+      <div style="font-family:'Newsreader',serif;font-style:italic;font-size:20px;color:#f0dfd6;">Móveis Carina Maia</div>
+      <p style="font-size:14px;letter-spacing:0.02em;line-height:1.7;color:rgba(240,223,214,0.5);max-width:320px;">Mobiliário por medida, com produção 100% Nacional.<br>Projetos de interiores.</p>
+    </div>
+    <div class="f-cols">
+      <div style="display:flex;flex-direction:column;gap:16px;">
+        <span style="font-family:'Newsreader',serif;font-style:italic;font-size:20px;color:#f0dfd6;">Contacto:</span>
+        <a href="tel:+351914880975" class="footer-link">+351 914 880 975</a>
+        <span style="font-family:'Newsreader',serif;font-style:italic;font-size:20px;color:#f0dfd6;">Email:</span>
+        <a href="mailto:geral@moveiscarinamaia.pt" class="footer-link">geral@moveiscarinamaia.pt</a>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:16px;">
+        <span style="font-family:'Newsreader',serif;font-style:italic;font-size:20px;color:#f0dfd6;">Morada:</span>
+        <div style="color:rgba(240,223,214,0.5);font-size:14px;letter-spacing:0.02em;line-height:1.6;">Rua Loteamento do Facho Nº23<br>4825-027, Agrela, Santo Tirso<br>Porto</div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ===================== LIGHTBOX ===================== -->
+  <div id="lbx" role="dialog" aria-modal="true" aria-label="Visualizador de peça">
+    <div id="lbx-bg"></div>
+    <button id="lbx-close" aria-label="Fechar visualizador">✕</button>
+    <div id="lbx-inner">
+      <div id="lbx-stage">
+        <div id="lbx-main">
+          <button class="lbx-arr" id="lbx-prev" aria-label="Ângulo anterior">
+            <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M11 3L5 9L11 15" stroke="#e1c299" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+          </button>
+          <div id="lbx-img-wrap">
+            <img id="lbx-img" alt="">
+            <video id="lbx-video" controls playsinline preload="metadata" style="display:none;max-width:100%;max-height:100%;width:auto;height:auto;border-radius:1.25rem;box-shadow:0 40px 120px rgba(0,0,0,0.55);"></video>
+          </div>
+          <button class="lbx-arr" id="lbx-next" aria-label="Próximo ângulo">
+            <svg width="18" height="18" viewBox="0 0 18 18" fill="none"><path d="M7 3L13 9L7 15" stroke="#e1c299" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+          </button>
+        </div>
+        <div id="lbx-thumbs-wrap">
+          <div id="lbx-thumbs"></div>
+        </div>
+      </div>
+      <aside id="lbx-side">
+        <div id="lbx-info">
+          <div id="lbx-badge"></div>
+          <div id="lbx-name"></div>
+          <div id="lbx-wood"></div>
+          <div id="lbx-desc"></div>
+        </div>
+        <div id="lbx-dots"></div>
+      </aside>
+    </div>
+  </div>
+
+<script src="js/common.js"></script>
+<script src="js/reveal.js"></script>
+<script src="js/colecoes.js"></script>
+</body>
+</html>
