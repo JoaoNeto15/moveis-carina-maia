@@ -8,13 +8,12 @@
     "Cadeiras_Poltronas": {
       "cadeira1": {
         "id": "cadeira-1",
-        "nome": "Cadeira 1",
+        "nome": "Cadeira Daisy",
         "descricao": "Cadeira Daisy com um design moderno, conforto envolvente e um toque de sofisticação em cada detalhe.",
         "imagens": [
-          "uploads/Cadeiras_Poltronas/cadeira1_1.jpg",
-          "uploads/Cadeiras_Poltronas/cadeira1_2.jpg",
-          "uploads/Cadeiras_Poltronas/cadeira1_3.jpg",
-          "uploads/Cadeiras_Poltronas/cadeira1_4.jpg"
+          "uploads/Cadeiras_Poltronas/cadeira_daisy2.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_daisy1.jpg"
+
         ]
       },
       "cadeira2": {
@@ -24,9 +23,18 @@
           "uploads/Cadeiras_Poltronas/cadeira2_1.jpg"
         ]
       },
-      "cadeiras1": {
-        "id": "cadeiras-1",
-        "nome": "Cadeiras 1",
+      "cadeira3": {
+        "id": "cadeira-3",
+        "nome": "Cadeira Lavender",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/lavender2.jpg",
+          "uploads/Cadeiras_Poltronas/lavender1.jpg",
+          "uploads/Cadeiras_Poltronas/lavender3.jpg"
+        ]
+      },
+      "cadeirao1": {
+        "id": "cadeirao-1",
+        "nome": "Cadeirão Daisy",
         "imagens": [
           "uploads/Cadeiras_Poltronas/Cadeiras1_1.png"
         ]
@@ -42,9 +50,9 @@
       },
       "poltrona1": {
         "id": "poltrona-1",
-        "nome": "Poltrona 1",
+        "nome": "Poltrona Suna",
         "imagens": [
-          "uploads/Cadeiras_Poltronas/poltrona1_1.jpg"
+          "uploads/Cadeiras_Poltronas/poltrona_suna.jpg"
         ]
       },
       "poltrona2": {
@@ -61,10 +69,10 @@
     "Camas_Quartos": {
       "quarto1": {
         "id": "quarto-1",
-        "nome": "Quarto 1",
+        "nome": "Cama Eagle",
         "imagens": [
           "uploads/Camas_Quartos/quarto1_1.jpg",
-          "uploads/Videos/video_quarto2_1.mp4"
+          "uploads/Videos/video_quarto1_1.mp4"
         ]
       },
       "quarto2": {
@@ -73,6 +81,28 @@
         "imagens": [
           "uploads/Camas_Quartos/quarto2_1.jpg"
         ]
+      },
+      "quarto3": {
+        "id": "quarto-3",
+        "nome": "Cama Elegance",
+        "imagens": [
+          "uploads/Camas_Quartos/Cama_elegance.png",
+          "uploads/Camas_Quartos/Cama_elegance2.png"
+        ]
+      },
+      "quarto4": {
+        "id": "quarto-4",
+        "nome": "Cama 4",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_monicaf.jpg"
+        ]
+      },
+      "quarto5": {
+        "id": "quarto-5",
+        "nome": "Cama 5",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_monicaf2.jpg"
+          ]
       }
     },
     "Outros_Moveis": {
@@ -89,6 +119,20 @@
         "imagens": [
           "uploads/Outros_Moveis/movel2_1.jpg"
         ]
+      },
+      "movel3": {
+        "id": "movel-3",
+        "nome": "Aparador",
+        "imagens": [
+          "uploads/Outros_Moveis/movel_monica.jpg"
+        ]
+      },
+      "movel4": {
+        "id": "movel-4",
+        "nome": "Mesa Ovo",
+        "imagens": [
+          "uploads/Outros_Moveis/mesa_monica.jpg"
+        ]
       }
     },
     "Sofas": {
@@ -100,13 +144,6 @@
           "uploads/Sofas/sofa1_2.png",
           "uploads/Sofas/sofa1_4.jpg",
           "uploads/Sofas/sofa1_5.jpg"
-        ]
-      },
-      "sofa10": {
-        "id": "sofa-10",
-        "nome": "Sofá 10",
-        "imagens": [
-          "uploads/Sofas/sofa10_1.jpg"
         ]
       },
       "sofa2": {
@@ -125,7 +162,7 @@
       },
       "sofa4": {
         "id": "sofa-4",
-        "nome": "Sofá 4",
+        "nome": "Sofá London",
         "imagens": [
           "uploads/Sofas/sofa4_1.jpg",
           "uploads/Sofas/sofa4_2.jpg"
@@ -133,7 +170,7 @@
       },
       "sofa5": {
         "id": "sofa-5",
-        "nome": "Sofá 5",
+        "nome": "Sofá Madrid",
         "imagens": [
           "uploads/Sofas/sofa5_1.jpg",
           "uploads/Sofas/sofa5_2.jpg"
@@ -165,9 +202,40 @@
         "id": "sofa-9",
         "nome": "Sofá 9",
         "imagens": [
-          "uploads/Sofas/sofa9_1.jpg"
+          "uploads/Sofas/sofa_9.jpg"
+        ]
+      },
+      "sofa10": {
+        "id": "sofa-10",
+        "nome": "Sofá 10",
+        "imagens": [
+          "uploads/Sofas/sofa10_1.jpg"
+        ]
+      },
+      "sofa11": {
+        "id": "sofa-11",
+        "nome": "Sofá 11",
+        "imagens": [
+          "uploads/Sofas/sofa_11.jpg",
+          "uploads/Sofas/sofa_11_2.jpg"
+        ]
+      },
+      "sofa12": {
+        "id": "sofa-12",
+        "nome": "Sofá 12",
+        "imagens": [
+          "uploads/Sofas/Sofa_12.jpg",
+          "uploads/Sofas/Sofa_12_2.jpg"
+        ]
+      },
+      "sofa13": {
+        "id": "sofa-13",
+        "nome": "Sofá 13",
+        "imagens": [
+          "uploads/Sofas/sofa_13.jpg"
         ]
       }
     }
   }
 }
+
