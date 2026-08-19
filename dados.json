@@ -267,10 +267,10 @@
       },
       "quarto2": {
         "id": "quarto-2",
-        "nome": "Cama 2",
+        "nome": "Cama Toucan",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_2.jpg"
+          "uploads/Camas_Quartos/cama_toucan.jpg"
         ]
       },
       "quarto3": {
@@ -278,152 +278,152 @@
         "nome": "Cama Elegance",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/Cama_elegance.png",
-          "uploads/Camas_Quartos/Cama_elegance2.png"
+          "uploads/Camas_Quartos/cama_hawk.png",
+          "uploads/Camas_Quartos/cama_hawk_1.png"
         ]
       },
       "quarto4": {
         "id": "quarto-4",
-        "nome": "Cama 4",
+        "nome": "Cama Lark",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_4.jpg"
+          "uploads/Camas_Quartos/cama_lark.jpg"
         ]
       },
       "quarto5": {
         "id": "quarto-5",
-        "nome": "Cama 5",
+        "nome": "Cama Skylark",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_5.jpg"
+          "uploads/Camas_Quartos/cama_skylark.jpg"
         ]
       },
       "quarto6": {
         "id": "quarto-6",
-        "nome": "Cama 6",
+        "nome": "Cama Condor",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_6.jpg"
+          "uploads/Camas_Quartos/cama_condor.jpg"
         ]
       },
       "quarto7": {
         "id": "quarto-7",
-        "nome": "Cama 7",
+        "nome": "Cama Kestrel",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_7.jpg"
+          "uploads/Camas_Quartos/cama_kestrel.jpg"
         ]
       },
       "quarto8": {
         "id": "quarto-8",
-        "nome": "Cama 8",
+        "nome": "Cama Macaw",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_8.jpg"
+          "uploads/Camas_Quartos/cama_macaw.jpg"
         ]
       },
       "quarto9": {
         "id": "quarto-9",
-        "nome": "Cama 9",
+        "nome": "Cama Osprey",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_9.jpg"
+          "uploads/Camas_Quartos/cama_osprey.jpg"
         ]
       },
       "quarto10": {
         "id": "quarto-10",
-        "nome": "Cama 10",
+        "nome": "Cama Starling",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_10.jpg"
+          "uploads/Camas_Quartos/cama_starling.jpg"
         ]
       },
       "quarto11": {
         "id": "quarto-11",
-        "nome": "Cama 11",
+        "nome": "Cama Robin",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_11.jpg"
+          "uploads/Camas_Quartos/cama_robin.jpg"
         ]
       },
       "quarto12": {
         "id": "quarto-12",
-        "nome": "Cama 12",
+        "nome": "Cama Dove",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_12.jpg"
+          "uploads/Camas_Quartos/cama_dove.jpg"
         ]
       },
       "quarto13": {
         "id": "quarto-13",
-        "nome": "Cama 13",
+        "nome": "Cama Swan",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_13.jpg"
+          "uploads/Camas_Quartos/cama_swan.jpg"
         ]
       },
       "quarto14": {
         "id": "quarto-14",
-        "nome": "Cama 14",
+        "nome": "Cama Blackbird",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_14.jpg"
+          "uploads/Camas_Quartos/cama_blackbird.jpg"
         ]
       },
       "quarto15": {
         "id": "quarto-15",
-        "nome": "Cama 15",
+        "nome": "Cama Goldfinch",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_15.jpg"
+          "uploads/Camas_Quartos/cama_goldfinch.jpg"
         ]
       },
       "quarto16": {
         "id": "quarto-16",
-        "nome": "Cama 16",
+        "nome": "Cama Canary",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_16.jpg"
+          "uploads/Camas_Quartos/cama_canary.jpg"
         ]
       },
       "quarto17": {
         "id": "quarto-17",
-        "nome": "Cama 17",
+        "nome": "Cama Flamingo",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_17.jpg"
+          "uploads/Camas_Quartos/cama_flamingo.jpg"
         ]
       },
       "quarto18": {
         "id": "quarto-18",
-        "nome": "Cama 18",
+        "nome": "Cama Bluebird",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_18.jpg"
+          "uploads/Camas_Quartos/cama_bluebird.jpg"
         ]
       },
       "quarto19": {
         "id": "quarto-19",
-        "nome": "Cama 19",
+        "nome": "Cama Raven",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_19.jpg"
+          "uploads/Camas_Quartos/cama_raven.jpg"
         ]
       },
       "quarto20": {
         "id": "quarto-20",
-        "nome": "Cama 20",
+        "nome": "Cama Pelican",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_20.jpg"
+          "uploads/Camas_Quartos/cama_pelican.jpg"
         ]
       },
       "quarto21": {
         "id": "quarto-21",
-        "nome": "Cama 21",
+        "nome": "Cama parrot",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_21.jpg"
+          "uploads/Camas_Quartos/cama_parrot.jpg"
         ]
       }
     },
@@ -517,19 +517,19 @@
       },
       "sofa2": {
         "id": "sofa-2",
-        "nome": "Sofá 2",
+        "nome": "Sofá Paris",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_verde.jpg"
+          "uploads/Sofas/sofa_paris.jpg"
         ]
       },
       "sofa3": {
         "id": "sofa-3",
-        "nome": "Sofá 3",
+        "nome": "Sofá Vienna",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_fabio.jpg",
-          "uploads/Sofas/sofa_fabio2.jpg"
+          "uploads/Sofas/sofa_vienna.jpg",
+          "uploads/Sofas/sofa_vienna_1.jpg"
         ]
       },
       "sofa4": {
@@ -552,132 +552,132 @@
       },
       "sofa6": {
         "id": "sofa-6",
-        "nome": "Sofá 6",
+        "nome": "Sofá Verona",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_6.jpg"
+          "uploads/Sofas/sofa_verona.jpg"
         ]
       },
       "sofa7": {
         "id": "sofa-7",
-        "nome": "Sofá 7",
+        "nome": "Sofá Granada",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_barcelos.jpg",
-          "uploads/Sofas/sofa_barcelos1.jpg"
+          "uploads/Sofas/sofa_granada.jpg",
+          "uploads/Sofas/sofa_granada_1.jpg"
         ]
       },
       "sofa8": {
         "id": "sofa-8",
-        "nome": "Sofá 8",
+        "nome": "Sofá Bristol",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_8.jpg"
+          "uploads/Sofas/sofa_bristol.jpg"
         ]
       },
       "sofa9": {
         "id": "sofa-9",
-        "nome": "Sofá 9",
+        "nome": "Sofá Dublin",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_9.jpg"
+          "uploads/Sofas/sofa_dublin.jpg"
         ]
       },
       "sofa10": {
         "id": "sofa-10",
-        "nome": "Sofá 10",
+        "nome": "Sofá Prague",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_10.jpg"
+          "uploads/Sofas/sofa_prague.jpg"
         ]
       },
       "sofa11": {
         "id": "sofa-11",
-        "nome": "Sofá 11",
+        "nome": "Sofá Monaco",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_casa.jpg"
+          "uploads/Sofas/sofa_monaco.jpg"
         ]
       },
       "sofa12": {
         "id": "sofa-12",
-        "nome": "Sofá 12",
+        "nome": "Sofá Copenhagen",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/Sofa_12.jpg",
-          "uploads/Sofas/Sofa_12_2.jpg"
+          "uploads/Sofas/sofa_copenhagen.jpg",
+          "uploads/Sofas/sofa_copenhagen_1.jpg"
         ]
       },
       "sofa13": {
         "id": "sofa-13",
-        "nome": "Sofá 13",
+        "nome": "Sofá Lisbon",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_13.jpg"
+          "uploads/Sofas/sofa_lisbon.jpg"
         ]
       },
       "sofa14": {
         "id": "sofa-14",
-        "nome": "Sofá Bruno",
+        "nome": "Sofá Oxford",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_bruno.jpg"
+          "uploads/Sofas/sofa_oxford.jpg"
         ]
       },
       "sofa15": {
         "id": "sofa-15",
-        "nome": "Sofá 15",
+        "nome": "Sofá Venice",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_15.jpg"
+          "uploads/Sofas/sofa_venice.jpg"
         ]
       },
       "sofa16": {
         "id": "sofa-16",
-        "nome": "Sofá 16",
+        "nome": "Sofá Rotterdam",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_16.jpg"
+          "uploads/Sofas/sofa_rotterdam.jpg"
         ]
       },
       "sofa17": {
         "id": "sofa-17",
-        "nome": "Sofá 17",
+        "nome": "Sofá Oslo",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_17.jpg"
+          "uploads/Sofas/sofa_oslo.jpg"
         ]
       },
       "sofa18": {
         "id": "sofa-18",
-        "nome": "Sofá 18",
+        "nome": "Sofá Amsterdam",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_18.jpg"
+          "uploads/Sofas/sofa_amsterdam.jpg"
         ]
       },
       "sofa19": {
         "id": "sofa-19",
-        "nome": "Sofá 19",
+        "nome": "Sofá Valencia",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_19.jpg"
+          "uploads/Sofas/sofa_valencia.jpg"
         ]
       },
       "sofa20": {
         "id": "sofa-20",
-        "nome": "Sofá 20",
+        "nome": "Sofá Barcelona",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_20.jpg"
+          "uploads/Sofas/sofa_barcelona.jpg"
         ]
       },
       "sofa21": {
         "id": "sofa-21",
-        "nome": "Sofá 21",
+        "nome": "Sofá Marbella",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_21.jpg"
+          "uploads/Sofas/sofa_marbella.jpg"
         ]
       }
     }
