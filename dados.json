@@ -1,77 +1,443 @@
 {
   "team": [
-    { "name": "Carina Maia", "role": "Designer", "foto": "uploads/perfil3.jpg", "bio": "Quarenta anos de banco. É das mãos dele que saem as juntas que se sentem mas não se veem.", "grad": "radial-gradient(circle at 35% 30%,#5a4632,#241c16)" },
-    { "name": "Luís Maia", "role": "Coordenador de Operação", "foto": "uploads/perfil3.jpg", "bio": "Traduz a conversa em desenho. Cada peça passa pela sua prancheta antes de chegar à madeira.", "grad": "radial-gradient(circle at 35% 30%,#6a523a,#2a1f15)" },
-    { "name": "Rafael Maia", "role": "Operador", "foto": "uploads/perfil3.jpg", "bio": "Coordena a oficina e o tempo da madeira. Garante que nada sai antes de estar pronto.", "grad": "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)" }
+    {
+      "name": "Carina Maia",
+      "role": "Designer",
+      "foto": "",
+      "bio": "Quarenta anos de banco. É das mãos dele que saem as juntas que se sentem mas não se veem.",
+      "grad": "radial-gradient(circle at 35% 30%,#5a4632,#241c16)"
+    },
+    {
+      "name": "Rafael Maia",
+      "role": "Coordenador de Operação",
+      "foto": "",
+      "bio": "Traduz a conversa em desenho. Cada peça passa pela sua prancheta antes de chegar à madeira.",
+      "grad": "radial-gradient(circle at 35% 30%,#6a523a,#2a1f15)"
+    },
+    {
+      "name": "Luis Alves",
+      "role": "Operador",
+      "foto": "",
+      "bio": "Coordena a oficina e o tempo da madeira. Garante que nada sai antes de estar pronto.",
+      "grad": "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)"
+    },    
+    {
+      "name": "Carina Maia",
+      "role": "Responsável de Produção",
+      "foto": "",
+      "bio": "Da primeira peça ao último detalhe, acompanha todo o processo. Garante que cada etapa respeita o desenho, os materiais e o tempo de cada peça.",
+      "grad": "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)"
+    },
+    {
+      "name": "Luis Alves",
+      "role": "Acabamentos & Qualidade",
+      "foto": "",
+      "bio": "O último olhar antes de cada peça seguir caminho. Porque são os pequenos detalhes que transformam um móvel numa peça especial..",
+      "grad": "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)"
+    }
   ],
   "colecoes": {
     "Cadeiras_Poltronas": {
       "cadeira1": {
         "id": "cadeira-1",
-        "nome": "Cadeira 1",
+        "nome": "Cadeirão Daisy",
         "descricao": "Cadeira Daisy com um design moderno, conforto envolvente e um toque de sofisticação em cada detalhe.",
         "imagens": [
-          "uploads/Cadeiras_Poltronas/cadeira1_1.jpg",
-          "uploads/Cadeiras_Poltronas/cadeira1_2.jpg",
-          "uploads/Cadeiras_Poltronas/cadeira1_3.jpg",
-          "uploads/Cadeiras_Poltronas/cadeira1_4.jpg"
+          "uploads/Cadeiras_Poltronas/cadeirao_daisy_1.jpg",
+          "uploads/Cadeiras_Poltronas/cadeirao_daisy.jpg"
         ]
       },
       "cadeira2": {
         "id": "cadeira-2",
-        "nome": "Cadeira 2",
+        "nome": "Cadeira Iris",
+        "descricao": "",
         "imagens": [
-          "uploads/Cadeiras_Poltronas/cadeira2_1.jpg"
+          "uploads/Cadeiras_Poltronas/cadeira_iris_1.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_iris.jpg"
         ]
       },
-      "cadeiras1": {
-        "id": "cadeiras-1",
-        "nome": "Cadeiras 1",
+      "cadeira3": {
+        "id": "cadeira-3",
+        "nome": "Cadeira Lavender",
+        "descricao": "",
         "imagens": [
-          "uploads/Cadeiras_Poltronas/Cadeiras1_1.png"
+          "uploads/Cadeiras_Poltronas/lavender2.jpg",
+          "uploads/Cadeiras_Poltronas/lavender1.jpg",
+          "uploads/Cadeiras_Poltronas/lavender3.jpg"
         ]
       },
-      "chaise1": {
-        "id": "chaise-1",
-        "nome": "Chaise 1",
+      "cadeira4": {
+        "id": "cadeira-4",
+        "nome": "Cadeira Orchid",
+        "descricao": "",
         "imagens": [
-          "uploads/Cadeiras_Poltronas/chaise1_1.jpg",
-          "uploads/Cadeiras_Poltronas/chaise1_2.jpg",
-          "uploads/Cadeiras_Poltronas/chaise1_3.jpg"
+          "uploads/Cadeiras_Poltronas/cadeira_orchid2.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_orchid.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_orchid3.jpg"
         ]
       },
-      "poltrona1": {
-        "id": "poltrona-1",
-        "nome": "Poltrona 1",
+      "cadeira5": {
+        "id": "cadeira-5",
+        "nome": "Cadeira Tulip",
+        "descricao": "",
         "imagens": [
-          "uploads/Cadeiras_Poltronas/poltrona1_1.jpg"
+          "uploads/Cadeiras_Poltronas/cadeira_tulip.jpg"
         ]
       },
-      "poltrona2": {
-        "id": "poltrona-2",
-        "nome": "Poltrona 2",
+      "cadeira6": {
+        "id": "cadeira-6",
+        "nome": "Cadeira Lotus",
+        "descricao": "",
         "imagens": [
-          "uploads/Cadeiras_Poltronas/poltrona2_1.jpg",
-          "uploads/Cadeiras_Poltronas/poltrona2_2.jpg",
-          "uploads/Cadeiras_Poltronas/poltrona2_3.jpg",
-          "uploads/Cadeiras_Poltronas/poltrona2_4.jpeg"
+          "uploads/Cadeiras_Poltronas/cadeira_lotus.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_lotus_1.jpg"
+        ]
+      },
+      "cadeira7": {
+        "id": "cadeira-7",
+        "nome": "Cadeira Sunflower",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_sunflower.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_sunflower_1.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_sunflower_2.jpg"
+        ]
+      },
+      "cadeira8": {
+        "id": "cadeira-8",
+        "nome": "Cadeira Camellia",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_camellia.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_camellia_1.jpg"
+        ]
+      },
+      "cadeira9": {
+        "id": "cadeira-9",
+        "nome": "Cadeirão Peony",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_peony.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_peony_1.jpg"
+        ]
+      },
+      "cadeira10": {
+        "id": "cadeira-10",
+        "nome": "Cadeira Anemone",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_anemone.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_anemone_1.jpg"
+        ]
+      },
+      "cadeira11": {
+        "id": "cadeira-11",
+        "nome": "Cadeira Rose",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_rose.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_rose_1.jpg"
+        ]
+      },
+      "cadeira12": {
+        "id": "cadeira-12",
+        "nome": "Cadeira Violet",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_violet.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_violet_1.jpg"
+        ]
+      },
+      "cadeira13": {
+        "id": "cadeira-13",
+        "nome": "Cadeira Jasmine",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_jasmine.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_jasmine_1.jpg"
+        ]
+      },
+      "cadeira14": {
+        "id": "cadeira-14",
+        "nome": "Cadeira Poppy",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_poppy.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_poppy_1.jpg"
+        ]
+      },
+      "cadeira15": {
+        "id": "cadeira-15",
+        "nome": "Cadeira Marigold",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_marigold.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_marigold_1.jpg"
+        ]
+      },
+      "cadeira16": {
+        "id": "cadeira-16",
+        "nome": "Cadeira Verbena",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_verbena.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_verbena_1.jpg"
+        ]
+      },     
+      "cadeira17": {
+        "id": "cadeira-17",
+        "nome": "Cadeira Calendula",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_calendula.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_calendula_1.jpg"
+        ]
+      },
+      "cadeira18": {
+        "id": "cadeira-18",
+        "nome": "Cadeira Clematis",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_clematis.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_clematis_1.jpg"
+        ]
+      },
+      "cadeirao1": {
+        "id": "cadeirao-1",
+        "nome": "Banco Daisy",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/banco_daisy.png"
+        ]
+      },
+      "cadeirao2": {
+        "id": "cadeirao-2",
+        "nome": "Poltrona Wisteria",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/Cadeirao_wisteria.jpg",
+          "uploads/Cadeiras_Poltronas/Cadeirao_wisteria_1.jpg"
+        ]
+      },
+      "cadeirao3": {
+        "id": "cadeirao-3",
+        "nome": "Banco Cameliia",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/banco_camellia.jpg"
+        ]
+      },
+      "cadeirao4": {
+        "id": "cadeirao-4",
+        "nome": "Banco Tulip",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/banco_tulip.jpg"
+        ]
+      },
+      "cadeirao5": {
+        "id": "cadeirao-5",
+        "nome": "Cadeirão Anemone",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeirao_anemone.jpg"
+        ]
+      },
+      "cadeirao6": {
+        "id": "cadeirao-6",
+        "nome": "Banco Sunflower",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/banco_tulip.jpg"
+        ]
+      },
+      "cadeirao7": {
+        "id": "cadeirao-7",
+        "nome": "Cadeirão Tulip",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeirao_tulip.jpg",
+          "uploads/Cadeiras_Poltronas/cadeirao_tulip_1.jpg"
+        ]
+      },
+      "cadeirao8": {
+        "id": "cadeirao-8",
+        "nome": "Poltrona Cosmos",
+        "descricao": "Cores Branco/Castanho/ Preto",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/poltrona_cosmos.jpg"
         ]
       }
     },
     "Camas_Quartos": {
       "quarto1": {
         "id": "quarto-1",
-        "nome": "Quarto 1",
+        "nome": "Cama Eagle",
+        "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/quarto1_1.jpg",
-          "uploads/Videos/video_quarto2_1.mp4"
+          "uploads/Camas_Quartos/cama_eagle.jpg",
+          "uploads/Camas_Quartos/cama_eagle1.jpg"
         ]
       },
       "quarto2": {
         "id": "quarto-2",
-        "nome": "Quarto 2",
+        "nome": "Cama Toucan",
+        "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/quarto2_1.jpg"
+          "uploads/Camas_Quartos/cama_toucan.jpg"
+        ]
+      },
+      "quarto3": {
+        "id": "quarto-3",
+        "nome": "Cama Elegance",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_hawk.png",
+          "uploads/Camas_Quartos/cama_hawk_1.png"
+        ]
+      },
+      "quarto4": {
+        "id": "quarto-4",
+        "nome": "Cama Lark",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_lark.jpg"
+        ]
+      },
+      "quarto5": {
+        "id": "quarto-5",
+        "nome": "Cama Skylark",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_skylark.jpg"
+        ]
+      },
+      "quarto6": {
+        "id": "quarto-6",
+        "nome": "Cama Condor",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_condor.jpg"
+        ]
+      },
+      "quarto7": {
+        "id": "quarto-7",
+        "nome": "Cama Kestrel",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_kestrel.jpg"
+        ]
+      },
+      "quarto8": {
+        "id": "quarto-8",
+        "nome": "Cama Macaw",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_macaw.jpg"
+        ]
+      },
+      "quarto9": {
+        "id": "quarto-9",
+        "nome": "Cama Osprey",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_osprey.jpg"
+        ]
+      },
+      "quarto10": {
+        "id": "quarto-10",
+        "nome": "Cama Starling",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_starling.jpg"
+        ]
+      },
+      "quarto11": {
+        "id": "quarto-11",
+        "nome": "Cama Robin",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_robin.jpg"
+        ]
+      },
+      "quarto12": {
+        "id": "quarto-12",
+        "nome": "Cama Dove",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_dove.jpg"
+        ]
+      },
+      "quarto13": {
+        "id": "quarto-13",
+        "nome": "Cama Swan",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_swan.jpg"
+        ]
+      },
+      "quarto14": {
+        "id": "quarto-14",
+        "nome": "Cama Blackbird",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_blackbird.jpg"
+        ]
+      },
+      "quarto15": {
+        "id": "quarto-15",
+        "nome": "Cama Goldfinch",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_goldfinch.jpg"
+        ]
+      },
+      "quarto16": {
+        "id": "quarto-16",
+        "nome": "Cama Canary",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_canary.jpg"
+        ]
+      },
+      "quarto17": {
+        "id": "quarto-17",
+        "nome": "Cama Flamingo",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_flamingo.jpg"
+        ]
+      },
+      "quarto18": {
+        "id": "quarto-18",
+        "nome": "Cama Bluebird",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_bluebird.jpg"
+        ]
+      },
+      "quarto19": {
+        "id": "quarto-19",
+        "nome": "Cama Raven",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_raven.jpg"
+        ]
+      },
+      "quarto20": {
+        "id": "quarto-20",
+        "nome": "Cama Pelican",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_pelican.jpg"
+        ]
+      },
+      "quarto21": {
+        "id": "quarto-21",
+        "nome": "Cama parrot",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_parrot.jpg"
         ]
       }
     },
@@ -79,15 +445,75 @@
       "movel1": {
         "id": "movel-1",
         "nome": "Móvel 1",
+        "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/movel1_1.jpg"
+          "uploads/Outros_Moveis/movel_reguenga.jpg"
         ]
       },
       "movel2": {
         "id": "movel-2",
         "nome": "Móvel 2",
+        "descricao": "",
         "imagens": [
           "uploads/Outros_Moveis/movel2_1.jpg"
+        ]
+      },
+      "movel3": {
+        "id": "movel-3",
+        "nome": "Aparador",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/movel_monica.jpg"
+        ]
+      },
+      "movel4": {
+        "id": "movel-4",
+        "nome": "Mesa Ovo",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/mesa_monica.jpg"
+        ]
+      },
+      "movel5": {
+        "id": "movel-5",
+        "nome": "Mesinhas",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/mesinha1.jpg",
+          "uploads/Outros_Moveis/mesinha1_2.jpg"
+        ]
+      },
+      "movel6": {
+        "id": "movel-6",
+        "nome": "Mesinhas",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/mesinha2.jpg",
+          "uploads/Outros_Moveis/mesinha2_1.jpg"
+        ]
+      },
+      "movel7": {
+        "id": "movel-7",
+        "nome": "Sala",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/sala_casa.jpg"
+        ]
+      },
+      "movel8": {
+        "id": "movel-8",
+        "nome": "Movel Sala",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/movel_sala.jpg"
+        ]
+      },
+      "movel9": {
+        "id": "movel-9",
+        "nome": "Movel Sala",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/mesa_vilamea.jpg"
         ]
       }
     },
@@ -95,79 +521,180 @@
       "sofa1": {
         "id": "sofa-1",
         "nome": "Sofá XPTO",
+        "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa1_1.jpg",
+          "uploads/Sofas/sofa_xpto.jpg",
           "uploads/Sofas/sofa1_2.png",
           "uploads/Sofas/sofa1_4.jpg",
           "uploads/Sofas/sofa1_5.jpg"
         ]
       },
-      "sofa10": {
-        "id": "sofa-10",
-        "nome": "Sofá 10",
-        "imagens": [
-          "uploads/Sofas/sofa10_1.jpg"
-        ]
-      },
       "sofa2": {
         "id": "sofa-2",
-        "nome": "Sofá 2",
+        "nome": "Sofá Paris",
+        "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa2_1.jpg"
+          "uploads/Sofas/sofa_paris.jpg"
         ]
       },
       "sofa3": {
         "id": "sofa-3",
-        "nome": "Sofá 3",
+        "nome": "Sofá Vienna",
+        "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa3_1.jpg"
+          "uploads/Sofas/sofa_vienna.jpg",
+          "uploads/Sofas/sofa_vienna_1.jpg"
         ]
       },
       "sofa4": {
         "id": "sofa-4",
-        "nome": "Sofá 4",
+        "nome": "Sofá London",
+        "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa4_1.jpg",
-          "uploads/Sofas/sofa4_2.jpg"
+          "uploads/Sofas/sofa_london.jpg",
+          "uploads/Sofas/sofa_london2.jpg"
         ]
       },
       "sofa5": {
         "id": "sofa-5",
-        "nome": "Sofá 5",
+        "nome": "Sofá Madrid",
+        "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa5_1.jpg",
-          "uploads/Sofas/sofa5_2.jpg"
+          "uploads/Sofas/sofa_madrid.jpg",
+          "uploads/Sofas/sofa_madrid2.jpg"
         ]
       },
       "sofa6": {
         "id": "sofa-6",
-        "nome": "Sofá 6",
+        "nome": "Sofá Verona",
+        "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa6_1.jpg"
+          "uploads/Sofas/sofa_verona.jpg"
         ]
       },
       "sofa7": {
         "id": "sofa-7",
-        "nome": "Sofá 7",
+        "nome": "Sofá Granada",
+        "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa7_1.jpg",
-          "uploads/Sofas/sofa7_2.jpg"
+          "uploads/Sofas/sofa_granada.jpg",
+          "uploads/Sofas/sofa_granada_1.jpg"
         ]
       },
       "sofa8": {
         "id": "sofa-8",
-        "nome": "Sofá 8",
+        "nome": "Sofá Bristol",
+        "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa8_1.jpg"
+          "uploads/Sofas/sofa_bristol.jpg"
         ]
       },
       "sofa9": {
         "id": "sofa-9",
-        "nome": "Sofá 9",
+        "nome": "Sofá Dublin",
+        "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa9_1.jpg"
+          "uploads/Sofas/sofa_dublin.jpg"
+        ]
+      },
+      "sofa10": {
+        "id": "sofa-10",
+        "nome": "Sofá Prague",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_prague.jpg"
+        ]
+      },
+      "sofa11": {
+        "id": "sofa-11",
+        "nome": "Sofá Monaco",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_monaco.jpg"
+        ]
+      },
+      "sofa12": {
+        "id": "sofa-12",
+        "nome": "Sofá Copenhagen",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_copenhagen.jpg",
+          "uploads/Sofas/sofa_copenhagen_1.jpg"
+        ]
+      },
+      "sofa13": {
+        "id": "sofa-13",
+        "nome": "Sofá Lisbon",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_lisbon.jpg"
+        ]
+      },
+      "sofa14": {
+        "id": "sofa-14",
+        "nome": "Sofá Oxford",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_oxford.jpg"
+        ]
+      },
+      "sofa15": {
+        "id": "sofa-15",
+        "nome": "Sofá Venice",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_venice.jpg"
+        ]
+      },
+      "sofa16": {
+        "id": "sofa-16",
+        "nome": "Sofá Rotterdam",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_rotterdam.jpg"
+        ]
+      },
+      "sofa17": {
+        "id": "sofa-17",
+        "nome": "Sofá Oslo",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_oslo.jpg"
+        ]
+      },
+      "sofa18": {
+        "id": "sofa-18",
+        "nome": "Sofá Amsterdam",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_amsterdam.jpg"
+        ]
+      },
+      "sofa19": {
+        "id": "sofa-19",
+        "nome": "Sofá Valencia",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_valencia.jpg"
+        ]
+      },
+      "sofa20": {
+        "id": "sofa-20",
+        "nome": "Sofá Barcelona",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_barcelona.jpg"
+        ]
+      },
+      "sofa21": {
+        "id": "sofa-21",
+        "nome": "Sofá Marbella",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_marbella.jpg"
         ]
       }
     }
   }
 }
+
