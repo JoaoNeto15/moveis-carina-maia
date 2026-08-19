@@ -3,22 +3,36 @@
     {
       "name": "Carina Maia",
       "role": "Designer",
-      "foto": "uploads/perfil3.jpg",
+      "foto": "",
       "bio": "Quarenta anos de banco. É das mãos dele que saem as juntas que se sentem mas não se veem.",
       "grad": "radial-gradient(circle at 35% 30%,#5a4632,#241c16)"
     },
     {
       "name": "Rafael Maia",
       "role": "Coordenador de Operação",
-      "foto": "uploads/perfil3.jpg",
+      "foto": "",
       "bio": "Traduz a conversa em desenho. Cada peça passa pela sua prancheta antes de chegar à madeira.",
       "grad": "radial-gradient(circle at 35% 30%,#6a523a,#2a1f15)"
     },
     {
-      "name": "Carina Maia",
+      "name": "Luis Alves",
       "role": "Operador",
-      "foto": "uploads/perfil3.jpg",
+      "foto": "",
       "bio": "Coordena a oficina e o tempo da madeira. Garante que nada sai antes de estar pronto.",
+      "grad": "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)"
+    },    
+    {
+      "name": "Carina Maia",
+      "role": "Responsável de Produção",
+      "foto": "",
+      "bio": "Da primeira peça ao último detalhe, acompanha todo o processo. Garante que cada etapa respeita o desenho, os materiais e o tempo de cada peça.",
+      "grad": "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)"
+    },
+    {
+      "name": "Luis Alves",
+      "role": "Acabamentos & Qualidade",
+      "foto": "",
+      "bio": "O último olhar antes de cada peça seguir caminho. Porque são os pequenos detalhes que transformam um móvel numa peça especial..",
       "grad": "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)"
     }
   ],
