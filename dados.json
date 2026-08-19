@@ -95,7 +95,7 @@
         "descricao": "",
         "imagens": [
           "uploads/Cadeiras_Poltronas/cadeira_camellia.jpg",
-          "uploads/Cadeiras_Poltronas/cadeira2_camellia_1.jpg"
+          "uploads/Cadeiras_Poltronas/cadeira_camellia_1.jpg"
         ]
       },
       "cadeira9": {
@@ -159,6 +159,33 @@
         "imagens": [
           "uploads/Cadeiras_Poltronas/cadeira_marigold.jpg",
           "uploads/Cadeiras_Poltronas/cadeira_marigold_1.jpg"
+        ]
+      },
+      "cadeira16": {
+        "id": "cadeira-16",
+        "nome": "Cadeira Verbena",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_verbena.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_verbena_1.jpg"
+        ]
+      },     
+      "cadeira17": {
+        "id": "cadeira-17",
+        "nome": "Cadeira Calendula",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_calendula.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_calendula_1.jpg"
+        ]
+      },
+      "cadeira18": {
+        "id": "cadeira-18",
+        "nome": "Cadeira Clematis",
+        "descricao": "",
+        "imagens": [
+          "uploads/Cadeiras_Poltronas/cadeira_clematis.jpg",
+          "uploads/Cadeiras_Poltronas/cadeira_clematis_1.jpg"
         ]
       },
       "cadeirao1": {
@@ -240,10 +267,10 @@
       },
       "quarto2": {
         "id": "quarto-2",
-        "nome": "Quarto 2",
+        "nome": "Cama 2",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/quarto2_1.jpg"
+          "uploads/Camas_Quartos/cama_2.jpg"
         ]
       },
       "quarto3": {
@@ -260,7 +287,7 @@
         "nome": "Cama 4",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_monicaf.jpg"
+          "uploads/Camas_Quartos/cama_4.jpg"
         ]
       },
       "quarto5": {
@@ -268,7 +295,7 @@
         "nome": "Cama 5",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_monicaf2.jpg"
+          "uploads/Camas_Quartos/cama_5.jpg"
         ]
       },
       "quarto6": {
@@ -276,7 +303,127 @@
         "nome": "Cama 6",
         "descricao": "",
         "imagens": [
-          "uploads/Camas_Quartos/cama_viseu.jpg"
+          "uploads/Camas_Quartos/cama_6.jpg"
+        ]
+      },
+      "quarto7": {
+        "id": "quarto-7",
+        "nome": "Cama 7",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_7.jpg"
+        ]
+      },
+      "quarto8": {
+        "id": "quarto-8",
+        "nome": "Cama 8",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_8.jpg"
+        ]
+      },
+      "quarto9": {
+        "id": "quarto-9",
+        "nome": "Cama 9",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_9.jpg"
+        ]
+      },
+      "quarto10": {
+        "id": "quarto-10",
+        "nome": "Cama 10",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_10.jpg"
+        ]
+      },
+      "quarto11": {
+        "id": "quarto-11",
+        "nome": "Cama 11",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_11.jpg"
+        ]
+      },
+      "quarto12": {
+        "id": "quarto-12",
+        "nome": "Cama 12",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_12.jpg"
+        ]
+      },
+      "quarto13": {
+        "id": "quarto-13",
+        "nome": "Cama 13",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_13.jpg"
+        ]
+      },
+      "quarto14": {
+        "id": "quarto-14",
+        "nome": "Cama 14",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_14.jpg"
+        ]
+      },
+      "quarto15": {
+        "id": "quarto-15",
+        "nome": "Cama 15",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_15.jpg"
+        ]
+      },
+      "quarto16": {
+        "id": "quarto-16",
+        "nome": "Cama 16",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_16.jpg"
+        ]
+      },
+      "quarto17": {
+        "id": "quarto-17",
+        "nome": "Cama 17",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_17.jpg"
+        ]
+      },
+      "quarto18": {
+        "id": "quarto-18",
+        "nome": "Cama 18",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_18.jpg"
+        ]
+      },
+      "quarto19": {
+        "id": "quarto-19",
+        "nome": "Cama 19",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_19.jpg"
+        ]
+      },
+      "quarto20": {
+        "id": "quarto-20",
+        "nome": "Cama 20",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_20.jpg"
+        ]
+      },
+      "quarto21": {
+        "id": "quarto-21",
+        "nome": "Cama 21",
+        "descricao": "",
+        "imagens": [
+          "uploads/Camas_Quartos/cama_21.jpg"
         ]
       }
     },
@@ -408,7 +555,7 @@
         "nome": "Sofá 6",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa6_1.jpg"
+          "uploads/Sofas/sofa_6.jpg"
         ]
       },
       "sofa7": {
@@ -425,7 +572,7 @@
         "nome": "Sofá 8",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa8_1.jpg"
+          "uploads/Sofas/sofa_8.jpg"
         ]
       },
       "sofa9": {
@@ -475,6 +622,62 @@
         "descricao": "",
         "imagens": [
           "uploads/Sofas/sofa_bruno.jpg"
+        ]
+      },
+      "sofa15": {
+        "id": "sofa-15",
+        "nome": "Sofá 15",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_15.jpg"
+        ]
+      },
+      "sofa16": {
+        "id": "sofa-16",
+        "nome": "Sofá 16",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_16.jpg"
+        ]
+      },
+      "sofa17": {
+        "id": "sofa-17",
+        "nome": "Sofá 17",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_17.jpg"
+        ]
+      },
+      "sofa18": {
+        "id": "sofa-18",
+        "nome": "Sofá 18",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_18.jpg"
+        ]
+      },
+      "sofa19": {
+        "id": "sofa-19",
+        "nome": "Sofá 19",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_19.jpg"
+        ]
+      },
+      "sofa20": {
+        "id": "sofa-20",
+        "nome": "Sofá 20",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_20.jpg"
+        ]
+      },
+      "sofa21": {
+        "id": "sofa-21",
+        "nome": "Sofá 21",
+        "descricao": "",
+        "imagens": [
+          "uploads/Sofas/sofa_21.jpg"
         ]
       }
     }
