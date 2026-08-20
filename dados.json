@@ -645,6 +645,16 @@
         ]
       }
     },
+    "Mesas": {
+      "mesa17": {
+        "id": "mesa-17",
+        "nome": "Mesa 17",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/Mesas/mesa_17.jpg"
+        ]
+      }
+     }, 
     "Sofas": {
       "sofa1": {
         "id": "sofa-1",
