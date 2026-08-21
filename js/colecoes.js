@@ -10,6 +10,11 @@ document.addEventListener('DOMContentLoaded', () => {
     Outros_Moveis: 'Outros Móveis',
   };
 
+  function categoryLabel(category) {
+    const key = String(category || '').trim();
+    return catLabels[key] || key.replace(/_/g, ' ');
+  }
+
   const woodPal = {
     nogueira: ['#c89040', '#6a4518'], carvalho: ['#e0a850', '#8a6220'],
     castanho: ['#c07838', '#6a3d18'], freixo: ['#c8a878', '#6f5c3e'],
@@ -42,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '<div class="pc-ov"></div>' +
         '<div class="pc-angles">' + dots + '</div>' +
         '<div class="pc-meta">' +
-          '<div class="pc-badge">' + (catLabels[p.category] || '') + '</div>' +
+          '<div class="pc-badge">' + categoryLabel(p.category) + '</div>' +
           '<div class="pc-name">' + p.name + '</div>' +
           '<div class="pc-wood">' + p.wood + '</div>' +
         '</div>';
@@ -167,7 +172,9 @@ document.addEventListener('DOMContentLoaded', () => {
     lbxImg.style.opacity = '1';
     lbxImg.style.transform = 'scale(1)';
 
-    lbxBadge.textContent = catLabels[p.category] || '';
+    const label = categoryLabel(p.category);
+    lbxBadge.textContent = label;
+    lbxBadge.style.display = label ? 'inline-block' : 'none';
     lbxName.textContent = p.name;
     lbxWood.textContent = p.wood;
     if (p.description && p.description.trim()) {

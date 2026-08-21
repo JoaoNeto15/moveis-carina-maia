@@ -442,6 +442,118 @@
       }
     },
     "Outros_Moveis": {
+      "movel_tv_1": {
+        "id": "tv-1",
+        "nome": "Móvel TV 1",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/movel_tv_1.jpg"
+        ]
+      },
+      "movel_tv_2": {
+        "id": "tv-2",
+        "nome": "Móvel TV 2",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/movel_tv_2.jpg"
+        ]
+      },
+      "movel_tv_3": {
+        "id": "tv-3",
+        "nome": "Móvel TV 3",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/movel_tv_3.jpg"
+        ]
+      },
+      "movel_tv_4": {
+        "id": "tv-4",
+        "nome": "Móvel TV 4",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/movel_tv_4.jpg"
+        ]
+      },
+      "movel_tv_5": {
+        "id": "tv-5",
+        "nome": "Móvel TV 5",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/movel_tv_5.jpg"
+        ]
+      },
+      "aparador_1": {
+        "id": "aparador-1",
+        "nome": "Aparador 1",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/aparador_1.jpg"
+        ]
+      },
+      "aparador_2": {
+        "id": "aparador-2",
+        "nome": "Aparador 2",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/aparador_2.jpg"
+        ]
+      },
+      "aparador_3": {
+        "id": "aparador-3",
+        "nome": "Aparador 3",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/aparador_3.jpg"
+        ]
+      },
+      "aparador_4": {
+        "id": "aparador-4",
+        "nome": "Aparador 4",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/aparador_4.jpg"
+        ]
+      },
+      "aparador_5": {
+        "id": "aparador-5",
+        "nome": "Aparador 5",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/aparador_5.jpg"
+        ]
+      },
+      "aparador_6": {
+        "id": "aparador-6",
+        "nome": "Aparador 6",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/aparador_6.jpg"
+        ]
+      },
+      "aparador_7": {
+        "id": "aparador-7",
+        "nome": "Aparador 7",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/aparador_7.jpg"
+        ]
+      },
+      "aparador_8": {
+        "id": "aparador-8",
+        "nome": "Aparador 8",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/aparador_8.jpg"
+        ]
+      },
+      "aparador_9": {
+        "id": "aparador-9",
+        "nome": "Aparador 9",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/aparador_9.jpg"
+        ]
+      },
       "movel1": {
         "id": "movel-1",
         "nome": "Móvel 1",
@@ -452,70 +564,25 @@
       },
       "movel2": {
         "id": "movel-2",
-        "nome": "Móvel 2",
-        "descricao": "",
-        "imagens": [
-          ""
-        ]
-      },
-      "movel3": {
-        "id": "movel-3",
-        "nome": "Aparador",
-        "descricao": "",
-        "imagens": [
-          "uploads/Outros_Moveis/movel_monica.jpg"
-        ]
-      },
-      "movel4": {
-        "id": "movel-4",
-        "nome": "Mesa Ovo",
-        "descricao": "",
-        "imagens": [
-          "uploads/Outros_Moveis/mesa_monica.jpg"
-        ]
-      },
-      "movel5": {
-        "id": "movel-5",
         "nome": "Mesinhas",
         "descricao": "",
         "imagens": [
           "uploads/Outros_Moveis/mesinha1.jpg",
-          "uploads/Outros_Moveis/mesinha1_2.jpg"
-        ]
-      },
-      "movel6": {
-        "id": "movel-6",
-        "nome": "Mesinhas",
-        "descricao": "",
-        "imagens": [
+          "uploads/Outros_Moveis/mesinha1_2.jpg",
           "uploads/Outros_Moveis/mesinha2.jpg",
           "uploads/Outros_Moveis/mesinha2_1.jpg"
         ]
       },
-      "movel7": {
-        "id": "movel-7",
+      "movel3": {
+        "id": "movel-3",
         "nome": "Sala",
         "descricao": "",
         "imagens": [
           "uploads/Outros_Moveis/sala_casa.jpg"
         ]
-      },
-      "movel8": {
-        "id": "movel-8",
-        "nome": "Movel Sala",
-        "descricao": "",
-        "imagens": [
-          "uploads/Outros_Moveis/movel_sala.jpg"
-        ]
-      },
-      "movel9": {
-        "id": "movel-9",
-        "nome": "Movel Sala",
-        "descricao": "",
-        "imagens": [
-          "uploads/Outros_Moveis/mesa_vilamea.jpg"
-        ]
-      },
+      }
+    },
+    "Mesas": {
       "mesa1": {
         "id": "mesa-1",
         "nome": "Mesa 1",
@@ -643,9 +710,7 @@
         "imagens": [
           "uploads/Outros_Moveis/Mesas/mesa_16.jpg"
         ]
-      }
-    },
-    "Mesas": {
+      },
       "mesa17": {
         "id": "mesa-17",
         "nome": "Mesa 17",
@@ -658,10 +723,10 @@
     "Sofas": {
       "sofa1": {
         "id": "sofa-1",
-        "nome": "Sofá XPTO",
+        "nome": "Sofá Porto",
         "descricao": "",
         "imagens": [
-          "uploads/Sofas/sofa_xpto.jpg",
+          "uploads/Sofas/sofa_porto.jpg",
           "uploads/Sofas/sofa1_2.png",
           "uploads/Sofas/sofa1_4.jpg",
           "uploads/Sofas/sofa1_5.jpg"
