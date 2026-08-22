@@ -9,10 +9,8 @@ img{max-width:100%;display:block;}
 
 /* ===== Nav hover swap (bar <-> centered monogram) ===== */
 nav.site-nav{position:fixed;top:0;left:0;width:100%;z-index:50;background:rgba(38,30,24,0.6);backdrop-filter:blur(24px);-webkit-backdrop-filter:blur(24px);transition:all 0.4s ease-in-out;}
-.nav-bar{opacity:0;transition:opacity 0.7s ease-in-out;display:flex;justify-content:space-between;align-items:center;padding:24px 48px;width:100%;}
-.nav-center{opacity:1;transition:opacity 0.7s ease-in-out;position:absolute;inset:0;display:flex;justify-content:center;align-items:center;pointer-events:none;}
-nav.site-nav:hover .nav-bar{opacity:1;}
-nav.site-nav:hover .nav-center{opacity:0;}
+.nav-bar{display:flex;justify-content:space-between;align-items:center;padding:24px 48px;width:100%;}
+.nav-center{display:none;}
 .nav-links{display:flex;align-items:center;gap:32px;}
 .nav-monogram{position:absolute;left:50%;transform:translateX(-50%);display:flex;align-items:center;gap:13px;text-decoration:none;}
 .nav-right{display:none;align-items:center;gap:24px;}
