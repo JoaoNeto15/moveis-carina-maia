@@ -585,138 +585,154 @@
     "Mesas": {
       "mesa1": {
         "id": "mesa-1",
-        "nome": "Mesa 1",
+        "nome": "Mesa Luna",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_1.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_luna.jpg"
         ]
       },
       "mesa2": {
         "id": "mesa-2",
-        "nome": "Mesa 2",
+        "nome": "Mesa Aria",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_2.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_aria.jpg"
         ]
       },
       "mesa3": {
         "id": "mesa-3",
-        "nome": "Mesa 3",
+        "nome": "Mesa Nara",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_3.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_nara.jpg"
         ]
       },
       "mesa4": {
         "id": "mesa-4",
-        "nome": "Mesa 4",
+        "nome": "Mesa Elara",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_4.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_elara.jpg"
         ]
       },
       "mesa5": {
         "id": "mesa-5",
-        "nome": "Mesa 5",
+        "nome": "Mesa Mira",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_5.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_mira.jpg"
         ]
       },
       "mesa6": {
         "id": "mesa-6",
-        "nome": "Mesa 6",
+        "nome": "Mesa Luma",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_6.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_luma.jpg"
         ]
       },
       "mesa7": {
         "id": "mesa-7",
-        "nome": "Mesa 7",
+        "nome": "Mesa Alma",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_7.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_alma.jpg"
         ]
       },
       "mesa8": {
         "id": "mesa-8",
-        "nome": "Mesa 8",
+        "nome": "Mesa Maya",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_8.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_maya.jpg"
         ]
       },
       "mesa9": {
         "id": "mesa-9",
-        "nome": "Mesa 9",
+        "nome": "Mesa Kira",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_9.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_kira.jpg"
         ]
       },
       "mesa10": {
         "id": "mesa-10",
-        "nome": "Mesa 10",
+        "nome": "Mesa Nova",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_10.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_nova.jpg"
         ]
       },
       "mesa11": {
         "id": "mesa-11",
-        "nome": "Mesa 11",
+        "nome": "Mesa Aura",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_11.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_aura.jpg"
         ]
       },
       "mesa12": {
         "id": "mesa-12",
-        "nome": "Mesa 12",
+        "nome": "Mesa Nila",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_12.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_nila.jpg"
         ]
       },
       "mesa13": {
         "id": "mesa-13",
-        "nome": "Mesa 13",
+        "nome": "Mesa Nola",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_13.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_nola.jpg"
         ]
       },
       "mesa14": {
         "id": "mesa-14",
-        "nome": "Mesa 14",
+        "nome": "Mesa Aira",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_14.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_aira.jpg"
         ]
       }, 
       "mesa15": {
         "id": "mesa-15",
-        "nome": "Mesa 15",
+        "nome": "Mesa Sora",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_15.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_sora.jpg"
         ]
       },
       "mesa16": {
         "id": "mesa-16",
-        "nome": "Mesa 16",
+        "nome": "Mesa Stella",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_16.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_stella.jpg"
         ]
       },
       "mesa17": {
         "id": "mesa-17",
-        "nome": "Mesa 17",
+        "nome": "Mesa Yara",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/Mesas/mesa_17.jpg"
+          "uploads/Outros_Moveis/Mesas/mesa_yara.jpg"
+        ]
+      },
+      "mesa18": {
+        "id": "mesa-18",
+        "nome": "Mesa Vita",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/Mesas/mesa_vita.jpg"
+        ]
+      },
+      "mesa19": {
+        "id": "mesa-19",
+        "nome": "Mesa Sole",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/Mesas/mesa_sole.jpg"
         ]
       }
      }, 
