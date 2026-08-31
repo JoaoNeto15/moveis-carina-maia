@@ -543,71 +543,71 @@
       },
       "entrada_1": {
         "id": "entrada-1",
-        "nome": "Móvel Entrada 1",
+        "nome": "Móvel Entrada Zenith",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/movel_entrada_1.jpg",
-          "uploads/Outros_Moveis/movel_entrada_1_1.jpg"
+          "uploads/Outros_Moveis/movel_entrada_zenith.jpg",
+          "uploads/Outros_Moveis/movel_entrada_zenith_1.jpg"
         ]
       },
       "entrada_2": {
         "id": "entrada-2",
-        "nome": "Móvel Entrada 2",
+        "nome": "Móvel Entrada Legacy",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/movel_entrada_2.jpg"
+          "uploads/Outros_Moveis/movel_entrada_legacy.jpg"
         ]
       },
       "entrada_3": {
         "id": "entrada-3",
-        "nome": "Móvel Entrada 3",
+        "nome": "Móvel Entrada Wonder",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/movel_entrada_3.jpg"
+          "uploads/Outros_Moveis/movel_entrada_wonder.jpg"
         ]
       },
       "entrada_4": {
         "id": "entrada-4",
-        "nome": "Móvel Entrada 4",
+        "nome": "Móvel Entrada Prime",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/movel_entrada_4.jpg"
+          "uploads/Outros_Moveis/movel_entrada_prime.jpg"
         ]
       },
       "entrada_5": {
         "id": "entrada-5",
-        "nome": "Móvel Entrada 5",
+        "nome": "Móvel Entrada Grace",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/movel_entrada_5.jpg"
+          "uploads/Outros_Moveis/movel_entrada_grace.jpg"
         ]
       },
       "entrada_6": {
         "id": "entrada-6",
-        "nome": "Móvel Entrada 6",
+        "nome": "Móvel Entrada Vision",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/movel_entrada_6.jpg"
+          "uploads/Outros_Moveis/movel_entrada_vision.jpg"
         ]
       },
       "entrada_7": {
         "id": "entrada-7",
-        "nome": "Móvel Entrada 7",
+        "nome": "Móvel Entrada Elite",
         "descricao": "",
         "imagens": [
-          "uploads/Outros_Moveis/movel_entrada_7.jpg"
+          "uploads/Outros_Moveis/movel_entrada_elite.jpg"
+        ]
+      },
+      "entrada_8": {
+        "id": "entrada-8",
+        "nome": "Móvel Entrada Supreme",
+        "descricao": "",
+        "imagens": [
+          "uploads/Outros_Moveis/movel_entrada_supreme.jpg"
         ]
       },
       "movel1": {
         "id": "movel-1",
-        "nome": "Móvel Entrada",
-        "descricao": "",
-        "imagens": [
-          "uploads/Outros_Moveis/movel_reguenga.jpg"
-        ]
-      },
-      "movel2": {
-        "id": "movel-2",
         "nome": "Mesinhas Cabeceira",
         "descricao": "",
         "imagens": [
@@ -617,8 +617,8 @@
           "uploads/Outros_Moveis/mesinha2_1.jpg"
         ]
       },
-      "movel3": {
-        "id": "movel-3",
+      "movel2": {
+        "id": "movel-2",
         "nome": "Sala Revestida a Madeira",
         "descricao": "",
         "imagens": [
