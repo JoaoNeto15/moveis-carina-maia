@@ -88,6 +88,23 @@ document.addEventListener('DOMContentLoaded', () => {
         });
       });
       renderGrid(piecesData);
+      // If URL has ?prod=<id>, open that product in the lightbox
+      try {
+        const params = new URLSearchParams(location.search);
+        const prodId = params.get('prod');
+        if (prodId) {
+          const match = piecesData.find((pp) => pp.id === prodId);
+          if (match) {
+            // ensure grid rendered and visible
+            setTimeout(() => {
+              openLbx(match);
+              // scroll to grid
+              const el = document.querySelector(`[data-piece-id="${match.id}"]`);
+              if (el) el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }, 120);
+          }
+        }
+      } catch (e) { /* ignore */ }
       const activePill = document.querySelector('.fpill.active') || pills[0];
       if (activePill) {
         const c = activePill.querySelector('.fcount');
