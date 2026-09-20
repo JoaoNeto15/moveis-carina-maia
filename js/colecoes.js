@@ -143,9 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const details = product?.detalhes || {};
     const specs = [
       { label: 'Material', value: details.material ?? product.material ?? product.materiais ?? product.materia ?? 'Madeira' },
-      { label: 'Acabamento', value: details.acabamento ?? product.acabamento ?? product.finish ?? product.acabamentoFinal ?? 'Natural' },
-      { label: 'Design', value: details.design ?? product.design ?? product.estilo ?? 'Sob medida' },
-      { label: 'Produção', value: details.producao ?? product.producao ?? product.producaoP ?? product.fabricacao ?? 'Produção própria' }
+      { label: 'Acabamento', value: details.acabamento ?? product.acabamento ?? product.finish ?? product.acabamentoFinal ?? 'Natural' }
     ];
 
     return specs.map((item) => ({

@@ -4,14 +4,14 @@
                      "name":  "Carina Maia",
                      "role":  "Designer",
                      "foto":  "",
-                     "bio":  "Quarenta anos de banco. A‰ das mA£os dele que saem as juntas que se sentem mas nA£o se veem.",
+                     "bio":  "Quarenta anos de banco. á das mãos dele que saem as juntas que se sentem mas não se veem.",
                      "grad":  "radial-gradient(circle at 35% 30%,#5a4632,#241c16)"
                  },
                  {
                      "name":  "Rafael Maia",
-                     "role":  "Coordenador de OperaçA£o",
+                     "role":  "Coordenador de Operação",
                      "foto":  "",
-                     "bio":  "Traduz a conversa em desenho. Cada peça passa pela sua prancheta antes de chegar A  madeira.",
+                     "bio":  "Traduz a conversa em desenho. Cada peça passa pela sua prancheta antes de chegar à madeira.",
                      "grad":  "radial-gradient(circle at 35% 30%,#6a523a,#2a1f15)"
                  },
                  {
@@ -23,7 +23,7 @@
                  },
                  {
                      "name":  "Carina Maia",
-                     "role":  "Responsável de ProduçAo",
+                     "role":  "Responsável de Produção",
                      "foto":  "",
                      "bio":  "Da primeira peça ao último detalhe, acompanha todo o processo. Garante que cada etapa respeita o desenho, os materiais e o tempo de cada peça.",
                      "grad":  "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)"
@@ -32,7 +32,7 @@
                      "name":  "Luis Alves",
                      "role":  "Acabamentos \u0026 Qualidade",
                      "foto":  "",
-                     "bio":  "O último olhar antes de cada peça seguir caminho. Porque sA£o os pequenos detalhes que transformam um Móvel numa peça especial..",
+                     "bio":  "O último olhar antes de cada peça seguir caminho. Porque são os pequenos detalhes que transformam um Móvel numa peça especial..",
                      "grad":  "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)"
                  }
              ],
@@ -41,12 +41,10 @@
                                                 "cadeira1":  {
                                                                  "id":  "cadeira-1",
                                                                  "nome":  "Cadeirão Daisy",
-                                                                 "descricao":  "Cadeira Daisy com um design moderno, conforto envolvente e um toque de sofisticaçA£o em cada detalhe.",
+                                                                 "descricao":  "Cadeira Daisy com um design moderno, conforto envolvente e um toque de sofisticação em cada detalhe.",
                                                                  "detalhes":  {
                                                                                   "material":  "Madeira maciça",
-                                                                                  "acabamento":  "Nogueira",
-                                                                                  "design":  "Formas orgânicas",
-                                                                                  "producao":  "ProduçAo própria"
+                                                                                  "acabamento":  "Nogueira"
                                                                               },
                                                                  "imagens":  [
                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_daisy_1.jpg",
@@ -63,9 +61,7 @@
                                                                              ],
                                                                  "detalhes":  {
                                                                                   "material":  "Madeira",
-                                                                                  "acabamento":  "Natural",
-                                                                                  "design":  "Sob medida",
-                                                                                  "producao":  "ProduçAo própria"
+                                                                                  "acabamento":  "Natural"
                                                                               }
                                                              },
                                                 "cadeira3":  {
@@ -79,9 +75,7 @@
                                                                              ],
                                                                  "detalhes":  {
                                                                                   "material":  "Madeira",
-                                                                                  "acabamento":  "Natural",
-                                                                                  "design":  "Sob medida",
-                                                                                  "producao":  "ProduçAo própria"
+                                                                                  "acabamento":  "Natural"
                                                                               }
                                                              },
                                                 "cadeira4":  {
@@ -95,9 +89,7 @@
                                                                              ],
                                                                  "detalhes":  {
                                                                                   "material":  "Madeira",
-                                                                                  "acabamento":  "Natural",
-                                                                                  "design":  "Sob medida",
-                                                                                  "producao":  "ProduçAo própria"
+                                                                                  "acabamento":  "Natural"
                                                                               }
                                                              },
                                                 "cadeira5":  {
@@ -109,9 +101,7 @@
                                                                              ],
                                                                  "detalhes":  {
                                                                                   "material":  "Madeira",
-                                                                                  "acabamento":  "Natural",
-                                                                                  "design":  "Sob medida",
-                                                                                  "producao":  "ProduçAo própria"
+                                                                                  "acabamento":  "Natural"
                                                                               }
                                                              },
                                                 "cadeira6":  {
@@ -124,9 +114,7 @@
                                                                              ],
                                                                  "detalhes":  {
                                                                                   "material":  "Madeira",
-                                                                                  "acabamento":  "Natural",
-                                                                                  "design":  "Sob medida",
-                                                                                  "producao":  "ProduçAo própria"
+                                                                                  "acabamento":  "Natural"
                                                                               }
                                                              },
                                                 "cadeira7":  {
@@ -140,9 +128,7 @@
                                                                              ],
                                                                  "detalhes":  {
                                                                                   "material":  "Madeira",
-                                                                                  "acabamento":  "Natural",
-                                                                                  "design":  "Sob medida",
-                                                                                  "producao":  "ProduçAo própria"
+                                                                                  "acabamento":  "Natural"
                                                                               }
                                                              },
                                                 "cadeira8":  {
@@ -155,9 +141,7 @@
                                                                              ],
                                                                  "detalhes":  {
                                                                                   "material":  "Madeira",
-                                                                                  "acabamento":  "Natural",
-                                                                                  "design":  "Sob medida",
-                                                                                  "producao":  "ProduçAo própria"
+                                                                                  "acabamento":  "Natural"
                                                                               }
                                                              },
                                                 "cadeira9":  {
@@ -170,9 +154,7 @@
                                                                              ],
                                                                  "detalhes":  {
                                                                                   "material":  "Madeira",
-                                                                                  "acabamento":  "Natural",
-                                                                                  "design":  "Sob medida",
-                                                                                  "producao":  "ProduçAo própria"
+                                                                                  "acabamento":  "Natural"
                                                                               }
                                                              },
                                                 "cadeira10":  {
@@ -185,9 +167,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "cadeira11":  {
@@ -200,9 +180,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "cadeira12":  {
@@ -215,9 +193,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "cadeira13":  {
@@ -230,9 +206,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "cadeira14":  {
@@ -245,9 +219,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "cadeira15":  {
@@ -260,9 +232,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "cadeira16":  {
@@ -275,9 +245,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "cadeira17":  {
@@ -290,9 +258,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "cadeira18":  {
@@ -305,9 +271,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "Cadeirão1":  {
@@ -319,9 +283,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "Cadeirão2":  {
@@ -334,9 +296,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "Cadeirão3":  {
@@ -348,9 +308,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "Cadeirão4":  {
@@ -362,9 +320,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "Cadeirão5":  {
@@ -376,9 +332,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "Cadeirão6":  {
@@ -390,9 +344,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "Cadeirão7":  {
@@ -405,9 +357,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               },
                                                 "Cadeirão8":  {
@@ -419,9 +369,7 @@
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
-                                                                                   "acabamento":  "Natural",
-                                                                                   "design":  "Sob medida",
-                                                                                   "producao":  "ProduçAo própria"
+                                                                                   "acabamento":  "Natural"
                                                                                }
                                                               }
                                             },
@@ -436,9 +384,7 @@
                                                                        ],
                                                            "detalhes":  {
                                                                             "material":  "Madeira",
-                                                                            "acabamento":  "Natural",
-                                                                            "design":  "Sob medida",
-                                                                            "producao":  "ProduçAo própria"
+                                                                            "acabamento":  "Natural"
                                                                         }
                                                        },
                                            "quarto2":  {
@@ -450,9 +396,7 @@
                                                                        ],
                                                            "detalhes":  {
                                                                             "material":  "Madeira",
-                                                                            "acabamento":  "Natural",
-                                                                            "design":  "Sob medida",
-                                                                            "producao":  "ProduçAo própria"
+                                                                            "acabamento":  "Natural"
                                                                         }
                                                        },
                                            "quarto3":  {
@@ -465,9 +409,7 @@
                                                                        ],
                                                            "detalhes":  {
                                                                             "material":  "Madeira",
-                                                                            "acabamento":  "Natural",
-                                                                            "design":  "Sob medida",
-                                                                            "producao":  "ProduçAo própria"
+                                                                            "acabamento":  "Natural"
                                                                         }
                                                        },
                                            "quarto4":  {
@@ -479,9 +421,7 @@
                                                                        ],
                                                            "detalhes":  {
                                                                             "material":  "Madeira",
-                                                                            "acabamento":  "Natural",
-                                                                            "design":  "Sob medida",
-                                                                            "producao":  "ProduçAo própria"
+                                                                            "acabamento":  "Natural"
                                                                         }
                                                        },
                                            "quarto5":  {
@@ -493,9 +433,7 @@
                                                                        ],
                                                            "detalhes":  {
                                                                             "material":  "Madeira",
-                                                                            "acabamento":  "Natural",
-                                                                            "design":  "Sob medida",
-                                                                            "producao":  "ProduçAo própria"
+                                                                            "acabamento":  "Natural"
                                                                         }
                                                        },
                                            "quarto6":  {
@@ -507,9 +445,7 @@
                                                                        ],
                                                            "detalhes":  {
                                                                             "material":  "Madeira",
-                                                                            "acabamento":  "Natural",
-                                                                            "design":  "Sob medida",
-                                                                            "producao":  "ProduçAo própria"
+                                                                            "acabamento":  "Natural"
                                                                         }
                                                        },
                                            "quarto7":  {
@@ -521,9 +457,7 @@
                                                                        ],
                                                            "detalhes":  {
                                                                             "material":  "Madeira",
-                                                                            "acabamento":  "Natural",
-                                                                            "design":  "Sob medida",
-                                                                            "producao":  "ProduçAo própria"
+                                                                            "acabamento":  "Natural"
                                                                         }
                                                        },
                                            "quarto8":  {
@@ -535,9 +469,7 @@
                                                                        ],
                                                            "detalhes":  {
                                                                             "material":  "Madeira",
-                                                                            "acabamento":  "Natural",
-                                                                            "design":  "Sob medida",
-                                                                            "producao":  "ProduçAo própria"
+                                                                            "acabamento":  "Natural"
                                                                         }
                                                        },
                                            "quarto9":  {
@@ -549,9 +481,7 @@
                                                                        ],
                                                            "detalhes":  {
                                                                             "material":  "Madeira",
-                                                                            "acabamento":  "Natural",
-                                                                            "design":  "Sob medida",
-                                                                            "producao":  "ProduçAo própria"
+                                                                            "acabamento":  "Natural"
                                                                         }
                                                        },
                                            "quarto10":  {
@@ -563,9 +493,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto11":  {
@@ -577,9 +505,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto12":  {
@@ -591,9 +517,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto13":  {
@@ -605,9 +529,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto14":  {
@@ -619,9 +541,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto15":  {
@@ -633,9 +553,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto16":  {
@@ -647,9 +565,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto17":  {
@@ -661,9 +577,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto18":  {
@@ -675,9 +589,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto19":  {
@@ -689,9 +601,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto20":  {
@@ -703,9 +613,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         },
                                            "quarto21":  {
@@ -717,9 +625,7 @@
                                                                         ],
                                                             "detalhes":  {
                                                                              "material":  "Madeira",
-                                                                             "acabamento":  "Natural",
-                                                                             "design":  "Sob medida",
-                                                                             "producao":  "ProduçAo própria"
+                                                                             "acabamento":  "Natural"
                                                                          }
                                                         }
                                        },
@@ -733,9 +639,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "movel_tv_2":  {
@@ -748,9 +652,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "movel_tv_3":  {
@@ -762,9 +664,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "movel_tv_4":  {
@@ -776,9 +676,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "movel_tv_5":  {
@@ -790,9 +688,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "aparador_1":  {
@@ -804,9 +700,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "aparador_2":  {
@@ -818,9 +712,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "aparador_3":  {
@@ -833,9 +725,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "aparador_4":  {
@@ -847,9 +737,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "aparador_5":  {
@@ -862,9 +750,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "aparador_6":  {
@@ -876,9 +762,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "aparador_7":  {
@@ -890,9 +774,7 @@
                                                                           ],
                                                               "detalhes":  {
                                                                                "material":  "Madeira",
-                                                                               "acabamento":  "Natural",
-                                                                               "design":  "Sob medida",
-                                                                               "producao":  "ProduçAo própria"
+                                                                               "acabamento":  "Natural"
                                                                            }
                                                           },
                                            "entrada_1":  {
@@ -905,9 +787,7 @@
                                                                          ],
                                                              "detalhes":  {
                                                                               "material":  "Madeira",
-                                                                              "acabamento":  "Natural",
-                                                                              "design":  "Sob medida",
-                                                                              "producao":  "ProduçAo própria"
+                                                                              "acabamento":  "Natural"
                                                                           }
                                                          },
                                            "entrada_2":  {
@@ -919,9 +799,7 @@
                                                                          ],
                                                              "detalhes":  {
                                                                               "material":  "Madeira",
-                                                                              "acabamento":  "Natural",
-                                                                              "design":  "Sob medida",
-                                                                              "producao":  "ProduçAo própria"
+                                                                              "acabamento":  "Natural"
                                                                           }
                                                          },
                                            "entrada_3":  {
@@ -933,9 +811,7 @@
                                                                          ],
                                                              "detalhes":  {
                                                                               "material":  "Madeira",
-                                                                              "acabamento":  "Natural",
-                                                                              "design":  "Sob medida",
-                                                                              "producao":  "ProduçAo própria"
+                                                                              "acabamento":  "Natural"
                                                                           }
                                                          },
                                            "entrada_4":  {
@@ -947,9 +823,7 @@
                                                                          ],
                                                              "detalhes":  {
                                                                               "material":  "Madeira",
-                                                                              "acabamento":  "Natural",
-                                                                              "design":  "Sob medida",
-                                                                              "producao":  "ProduçAo própria"
+                                                                              "acabamento":  "Natural"
                                                                           }
                                                          },
                                            "entrada_5":  {
@@ -961,9 +835,7 @@
                                                                          ],
                                                              "detalhes":  {
                                                                               "material":  "Madeira",
-                                                                              "acabamento":  "Natural",
-                                                                              "design":  "Sob medida",
-                                                                              "producao":  "ProduçAo própria"
+                                                                              "acabamento":  "Natural"
                                                                           }
                                                          },
                                            "entrada_6":  {
@@ -975,9 +847,7 @@
                                                                          ],
                                                              "detalhes":  {
                                                                               "material":  "Madeira",
-                                                                              "acabamento":  "Natural",
-                                                                              "design":  "Sob medida",
-                                                                              "producao":  "ProduçAo própria"
+                                                                              "acabamento":  "Natural"
                                                                           }
                                                          },
                                            "entrada_7":  {
@@ -989,9 +859,7 @@
                                                                          ],
                                                              "detalhes":  {
                                                                               "material":  "Madeira",
-                                                                              "acabamento":  "Natural",
-                                                                              "design":  "Sob medida",
-                                                                              "producao":  "ProduçAo própria"
+                                                                              "acabamento":  "Natural"
                                                                           }
                                                          },
                                            "entrada_8":  {
@@ -1003,9 +871,7 @@
                                                                          ],
                                                              "detalhes":  {
                                                                               "material":  "Madeira",
-                                                                              "acabamento":  "Natural",
-                                                                              "design":  "Sob medida",
-                                                                              "producao":  "ProduçAo própria"
+                                                                              "acabamento":  "Natural"
                                                                           }
                                                          },
                                            "movel1":  {
@@ -1020,9 +886,7 @@
                                                                       ],
                                                           "detalhes":  {
                                                                            "material":  "Madeira",
-                                                                           "acabamento":  "Natural",
-                                                                           "design":  "Sob medida",
-                                                                           "producao":  "ProduçAo própria"
+                                                                           "acabamento":  "Natural"
                                                                        }
                                                       },
                                            "movel2":  {
@@ -1034,9 +898,7 @@
                                                                       ],
                                                           "detalhes":  {
                                                                            "material":  "Madeira",
-                                                                           "acabamento":  "Natural",
-                                                                           "design":  "Sob medida",
-                                                                           "producao":  "ProduçAo própria"
+                                                                           "acabamento":  "Natural"
                                                                        }
                                                       }
                                        },
@@ -1050,9 +912,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sqwfqfqqqa",
-                                                                  "producao":  "ficticia"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "mesa2":  {
@@ -1064,9 +924,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Preto",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Preto"
                                                               }
                                              },
                                    "mesa3":  {
@@ -1078,9 +936,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "mesa4":  {
@@ -1092,9 +948,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "mesa5":  {
@@ -1106,9 +960,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "mesa6":  {
@@ -1120,9 +972,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "mesa7":  {
@@ -1134,9 +984,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "mesa8":  {
@@ -1148,9 +996,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "mesa9":  {
@@ -1162,9 +1008,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "mesa10":  {
@@ -1176,9 +1020,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "mesa11":  {
@@ -1190,9 +1032,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "mesa12":  {
@@ -1204,9 +1044,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "mesa13":  {
@@ -1218,9 +1056,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "mesa14":  {
@@ -1232,9 +1068,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "mesa15":  {
@@ -1246,9 +1080,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "mesa16":  {
@@ -1260,9 +1092,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "mesa17":  {
@@ -1274,9 +1104,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "mesa18":  {
@@ -1288,9 +1116,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "mesa19":  {
@@ -1302,9 +1128,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               }
                                },
@@ -1321,9 +1145,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "sofa2":  {
@@ -1335,9 +1157,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "sofa3":  {
@@ -1350,9 +1170,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "sofa4":  {
@@ -1365,9 +1183,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "sofa5":  {
@@ -1380,9 +1196,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "sofa6":  {
@@ -1394,9 +1208,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "sofa7":  {
@@ -1409,9 +1221,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "sofa8":  {
@@ -1423,9 +1233,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "sofa9":  {
@@ -1437,9 +1245,7 @@
                                                              ],
                                                  "detalhes":  {
                                                                   "material":  "Madeira",
-                                                                  "acabamento":  "Natural",
-                                                                  "design":  "Sob medida",
-                                                                  "producao":  "ProduçAo própria"
+                                                                  "acabamento":  "Natural"
                                                               }
                                              },
                                    "sofa10":  {
@@ -1451,9 +1257,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa11":  {
@@ -1465,9 +1269,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa12":  {
@@ -1480,9 +1282,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa13":  {
@@ -1494,9 +1294,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa14":  {
@@ -1508,9 +1306,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa15":  {
@@ -1522,9 +1318,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa16":  {
@@ -1536,9 +1330,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa17":  {
@@ -1550,9 +1342,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa18":  {
@@ -1564,9 +1354,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa19":  {
@@ -1578,9 +1366,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa20":  {
@@ -1592,9 +1378,7 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               },
                                    "sofa21":  {
@@ -1606,13 +1390,9 @@
                                                               ],
                                                   "detalhes":  {
                                                                    "material":  "Madeira",
-                                                                   "acabamento":  "Natural",
-                                                                   "design":  "Sob medida",
-                                                                   "producao":  "ProduçAo própria"
+                                                                   "acabamento":  "Natural"
                                                                }
                                               }
                                }
                  }
 }
-
-
