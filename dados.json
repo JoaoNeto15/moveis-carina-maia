@@ -49,8 +49,8 @@
                                                                                   "producao":  "ProduçAo própria"
                                                                               },
                                                                  "imagens":  [
-                                                                                 "uploads/Cadeiras_Poltronas/Cadeirao_daisy_1.jpg",
-                                                                                 "uploads/Cadeiras_Poltronas/Cadeirao_daisy.jpg"
+                                                                                 "uploads/Cadeiras_Poltronas/cadeirao_daisy_1.jpg",
+                                                                                 "uploads/Cadeiras_Poltronas/cadeirao_daisy.jpg"
                                                                              ]
                                                              },
                                                 "cadeira2":  {
@@ -329,8 +329,8 @@
                                                                   "nome":  "Poltrona Wisteria",
                                                                   "descricao":  "",
                                                                   "imagens":  [
-                                                                                  "uploads/Cadeiras_Poltronas/Cadeirao_wisteria.jpg",
-                                                                                  "uploads/Cadeiras_Poltronas/Cadeirao_wisteria_1.jpg"
+                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_wisteria.jpg",
+                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_wisteria_1.jpg"
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
@@ -372,7 +372,7 @@
                                                                   "nome":  "Cadeirão Anemone",
                                                                   "descricao":  "",
                                                                   "imagens":  [
-                                                                                  "uploads/Cadeiras_Poltronas/Cadeirao_anemone.jpg"
+                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_anemone.jpg"
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
@@ -400,8 +400,8 @@
                                                                   "nome":  "Cadeirão Tulip",
                                                                   "descricao":  "",
                                                                   "imagens":  [
-                                                                                  "uploads/Cadeiras_Poltronas/Cadeirao_tulip.jpg",
-                                                                                  "uploads/Cadeiras_Poltronas/Cadeirao_tulip_1.jpg"
+                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_tulip.jpg",
+                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_tulip_1.jpg"
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
