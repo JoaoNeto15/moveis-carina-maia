@@ -4,14 +4,14 @@
                      "name":  "Carina Maia",
                      "role":  "Designer",
                      "foto":  "",
-                     "bio":  "Quarenta anos de banco. Ã‰ das mÃ£os dele que saem as juntas que se sentem mas nÃ£o se veem.",
+                     "bio":  "Quarenta anos de banco. A‰ das mA£os dele que saem as juntas que se sentem mas nA£o se veem.",
                      "grad":  "radial-gradient(circle at 35% 30%,#5a4632,#241c16)"
                  },
                  {
                      "name":  "Rafael Maia",
-                     "role":  "Coordenador de OperaÃ§Ã£o",
+                     "role":  "Coordenador de OperaçA£o",
                      "foto":  "",
-                     "bio":  "Traduz a conversa em desenho. Cada peÃ§a passa pela sua prancheta antes de chegar Ã  madeira.",
+                     "bio":  "Traduz a conversa em desenho. Cada peça passa pela sua prancheta antes de chegar A  madeira.",
                      "grad":  "radial-gradient(circle at 35% 30%,#6a523a,#2a1f15)"
                  },
                  {
@@ -23,16 +23,16 @@
                  },
                  {
                      "name":  "Carina Maia",
-                     "role":  "ResponsÃ¡vel de ProduÃ§Ã£o",
+                     "role":  "Responsável de ProduçAo",
                      "foto":  "",
-                     "bio":  "Da primeira peÃ§a ao Ãºltimo detalhe, acompanha todo o processo. Garante que cada etapa respeita o desenho, os materiais e o tempo de cada peÃ§a.",
+                     "bio":  "Da primeira peça ao último detalhe, acompanha todo o processo. Garante que cada etapa respeita o desenho, os materiais e o tempo de cada peça.",
                      "grad":  "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)"
                  },
                  {
                      "name":  "Luis Alves",
                      "role":  "Acabamentos \u0026 Qualidade",
                      "foto":  "",
-                     "bio":  "O Ãºltimo olhar antes de cada peÃ§a seguir caminho. Porque sÃ£o os pequenos detalhes que transformam um mÃ³vel numa peÃ§a especial..",
+                     "bio":  "O último olhar antes de cada peça seguir caminho. Porque sA£o os pequenos detalhes que transformam um Móvel numa peça especial..",
                      "grad":  "radial-gradient(circle at 35% 30%,#4a3a28,#19120c)"
                  }
              ],
@@ -40,17 +40,17 @@
                      "Cadeiras_Poltronas":  {
                                                 "cadeira1":  {
                                                                  "id":  "cadeira-1",
-                                                                 "nome":  "CadeirÃ£o Daisy",
-                                                                 "descricao":  "Cadeira Daisy com um design moderno, conforto envolvente e um toque de sofisticaÃ§Ã£o em cada detalhe.",
+                                                                 "nome":  "Cadeirão Daisy",
+                                                                 "descricao":  "Cadeira Daisy com um design moderno, conforto envolvente e um toque de sofisticaçA£o em cada detalhe.",
                                                                  "detalhes":  {
-                                                                                  "material":  "Madeira maciÃ§a",
+                                                                                  "material":  "Madeira maciça",
                                                                                   "acabamento":  "Nogueira",
-                                                                                  "design":  "Formas orgÃ¢nicas",
-                                                                                  "producao":  "ProduÃ§Ã£o prÃ³pria"
+                                                                                  "design":  "Formas orgânicas",
+                                                                                  "producao":  "ProduçAo própria"
                                                                               },
                                                                  "imagens":  [
-                                                                                 "uploads/Cadeiras_Poltronas/cadeirao_daisy_1.jpg",
-                                                                                 "uploads/Cadeiras_Poltronas/cadeirao_daisy.jpg"
+                                                                                 "uploads/Cadeiras_Poltronas/Cadeirao_daisy_1.jpg",
+                                                                                 "uploads/Cadeiras_Poltronas/Cadeirao_daisy.jpg"
                                                                              ]
                                                              },
                                                 "cadeira2":  {
@@ -65,7 +65,7 @@
                                                                                   "material":  "Madeira",
                                                                                   "acabamento":  "Natural",
                                                                                   "design":  "Sob medida",
-                                                                                  "producao":  "Produção própria"
+                                                                                  "producao":  "ProduçAo própria"
                                                                               }
                                                              },
                                                 "cadeira3":  {
@@ -81,7 +81,7 @@
                                                                                   "material":  "Madeira",
                                                                                   "acabamento":  "Natural",
                                                                                   "design":  "Sob medida",
-                                                                                  "producao":  "Produção própria"
+                                                                                  "producao":  "ProduçAo própria"
                                                                               }
                                                              },
                                                 "cadeira4":  {
@@ -97,7 +97,7 @@
                                                                                   "material":  "Madeira",
                                                                                   "acabamento":  "Natural",
                                                                                   "design":  "Sob medida",
-                                                                                  "producao":  "Produção própria"
+                                                                                  "producao":  "ProduçAo própria"
                                                                               }
                                                              },
                                                 "cadeira5":  {
@@ -111,7 +111,7 @@
                                                                                   "material":  "Madeira",
                                                                                   "acabamento":  "Natural",
                                                                                   "design":  "Sob medida",
-                                                                                  "producao":  "Produção própria"
+                                                                                  "producao":  "ProduçAo própria"
                                                                               }
                                                              },
                                                 "cadeira6":  {
@@ -126,7 +126,7 @@
                                                                                   "material":  "Madeira",
                                                                                   "acabamento":  "Natural",
                                                                                   "design":  "Sob medida",
-                                                                                  "producao":  "Produção própria"
+                                                                                  "producao":  "ProduçAo própria"
                                                                               }
                                                              },
                                                 "cadeira7":  {
@@ -142,7 +142,7 @@
                                                                                   "material":  "Madeira",
                                                                                   "acabamento":  "Natural",
                                                                                   "design":  "Sob medida",
-                                                                                  "producao":  "Produção própria"
+                                                                                  "producao":  "ProduçAo própria"
                                                                               }
                                                              },
                                                 "cadeira8":  {
@@ -157,12 +157,12 @@
                                                                                   "material":  "Madeira",
                                                                                   "acabamento":  "Natural",
                                                                                   "design":  "Sob medida",
-                                                                                  "producao":  "Produção própria"
+                                                                                  "producao":  "ProduçAo própria"
                                                                               }
                                                              },
                                                 "cadeira9":  {
                                                                  "id":  "cadeira-9",
-                                                                 "nome":  "CadeirÃ£o Peony",
+                                                                 "nome":  "Cadeirão Peony",
                                                                  "descricao":  "",
                                                                  "imagens":  [
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_peony.jpg",
@@ -172,7 +172,7 @@
                                                                                   "material":  "Madeira",
                                                                                   "acabamento":  "Natural",
                                                                                   "design":  "Sob medida",
-                                                                                  "producao":  "Produção própria"
+                                                                                  "producao":  "ProduçAo própria"
                                                                               }
                                                              },
                                                 "cadeira10":  {
@@ -187,7 +187,7 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
                                                 "cadeira11":  {
@@ -202,7 +202,7 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
                                                 "cadeira12":  {
@@ -217,7 +217,7 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
                                                 "cadeira13":  {
@@ -232,7 +232,7 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
                                                 "cadeira14":  {
@@ -247,7 +247,7 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
                                                 "cadeira15":  {
@@ -262,7 +262,7 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
                                                 "cadeira16":  {
@@ -277,7 +277,7 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
                                                 "cadeira17":  {
@@ -292,7 +292,7 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
                                                 "cadeira18":  {
@@ -307,11 +307,11 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
-                                                "cadeirao1":  {
-                                                                  "id":  "cadeirao-1",
+                                                "Cadeirão1":  {
+                                                                  "id":  "Cadeirão-1",
                                                                   "nome":  "Banco Daisy",
                                                                   "descricao":  "",
                                                                   "imagens":  [
@@ -321,26 +321,26 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
-                                                "cadeirao2":  {
-                                                                  "id":  "cadeirao-2",
+                                                "Cadeirão2":  {
+                                                                  "id":  "Cadeirão-2",
                                                                   "nome":  "Poltrona Wisteria",
                                                                   "descricao":  "",
                                                                   "imagens":  [
-                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_wisteria.jpg",
-                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_wisteria_1.jpg"
+                                                                                  "uploads/Cadeiras_Poltronas/Cadeirao_wisteria.jpg",
+                                                                                  "uploads/Cadeiras_Poltronas/Cadeirao_wisteria_1.jpg"
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
-                                                "cadeirao3":  {
-                                                                  "id":  "cadeirao-3",
+                                                "Cadeirão3":  {
+                                                                  "id":  "Cadeirão-3",
                                                                   "nome":  "Banco Cameliia",
                                                                   "descricao":  "",
                                                                   "imagens":  [
@@ -350,11 +350,11 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
-                                                "cadeirao4":  {
-                                                                  "id":  "cadeirao-4",
+                                                "Cadeirão4":  {
+                                                                  "id":  "Cadeirão-4",
                                                                   "nome":  "Banco Tulip",
                                                                   "descricao":  "",
                                                                   "imagens":  [
@@ -364,25 +364,25 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
-                                                "cadeirao5":  {
-                                                                  "id":  "cadeirao-5",
-                                                                  "nome":  "CadeirÃ£o Anemone",
+                                                "Cadeirão5":  {
+                                                                  "id":  "Cadeirão-5",
+                                                                  "nome":  "Cadeirão Anemone",
                                                                   "descricao":  "",
                                                                   "imagens":  [
-                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_anemone.jpg"
+                                                                                  "uploads/Cadeiras_Poltronas/Cadeirao_anemone.jpg"
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
-                                                "cadeirao6":  {
-                                                                  "id":  "cadeirao-6",
+                                                "Cadeirão6":  {
+                                                                  "id":  "Cadeirão-6",
                                                                   "nome":  "Banco Sunflower",
                                                                   "descricao":  "",
                                                                   "imagens":  [
@@ -392,26 +392,26 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
-                                                "cadeirao7":  {
-                                                                  "id":  "cadeirao-7",
-                                                                  "nome":  "CadeirÃ£o Tulip",
+                                                "Cadeirão7":  {
+                                                                  "id":  "Cadeirão-7",
+                                                                  "nome":  "Cadeirão Tulip",
                                                                   "descricao":  "",
                                                                   "imagens":  [
-                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_tulip.jpg",
-                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_tulip_1.jpg"
+                                                                                  "uploads/Cadeiras_Poltronas/Cadeirao_tulip.jpg",
+                                                                                  "uploads/Cadeiras_Poltronas/Cadeirao_tulip_1.jpg"
                                                                               ],
                                                                   "detalhes":  {
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               },
-                                                "cadeirao8":  {
-                                                                  "id":  "cadeirao-8",
+                                                "Cadeirão8":  {
+                                                                  "id":  "Cadeirão-8",
                                                                   "nome":  "Poltrona Cosmos",
                                                                   "descricao":  "Cores Branco/Castanho/ Preto",
                                                                   "imagens":  [
@@ -421,7 +421,7 @@
                                                                                    "material":  "Madeira",
                                                                                    "acabamento":  "Natural",
                                                                                    "design":  "Sob medida",
-                                                                                   "producao":  "Produção própria"
+                                                                                   "producao":  "ProduçAo própria"
                                                                                }
                                                               }
                                             },
@@ -438,7 +438,7 @@
                                                                             "material":  "Madeira",
                                                                             "acabamento":  "Natural",
                                                                             "design":  "Sob medida",
-                                                                            "producao":  "Produção própria"
+                                                                            "producao":  "ProduçAo própria"
                                                                         }
                                                        },
                                            "quarto2":  {
@@ -452,7 +452,7 @@
                                                                             "material":  "Madeira",
                                                                             "acabamento":  "Natural",
                                                                             "design":  "Sob medida",
-                                                                            "producao":  "Produção própria"
+                                                                            "producao":  "ProduçAo própria"
                                                                         }
                                                        },
                                            "quarto3":  {
@@ -467,7 +467,7 @@
                                                                             "material":  "Madeira",
                                                                             "acabamento":  "Natural",
                                                                             "design":  "Sob medida",
-                                                                            "producao":  "Produção própria"
+                                                                            "producao":  "ProduçAo própria"
                                                                         }
                                                        },
                                            "quarto4":  {
@@ -481,7 +481,7 @@
                                                                             "material":  "Madeira",
                                                                             "acabamento":  "Natural",
                                                                             "design":  "Sob medida",
-                                                                            "producao":  "Produção própria"
+                                                                            "producao":  "ProduçAo própria"
                                                                         }
                                                        },
                                            "quarto5":  {
@@ -495,7 +495,7 @@
                                                                             "material":  "Madeira",
                                                                             "acabamento":  "Natural",
                                                                             "design":  "Sob medida",
-                                                                            "producao":  "Produção própria"
+                                                                            "producao":  "ProduçAo própria"
                                                                         }
                                                        },
                                            "quarto6":  {
@@ -509,7 +509,7 @@
                                                                             "material":  "Madeira",
                                                                             "acabamento":  "Natural",
                                                                             "design":  "Sob medida",
-                                                                            "producao":  "Produção própria"
+                                                                            "producao":  "ProduçAo própria"
                                                                         }
                                                        },
                                            "quarto7":  {
@@ -523,7 +523,7 @@
                                                                             "material":  "Madeira",
                                                                             "acabamento":  "Natural",
                                                                             "design":  "Sob medida",
-                                                                            "producao":  "Produção própria"
+                                                                            "producao":  "ProduçAo própria"
                                                                         }
                                                        },
                                            "quarto8":  {
@@ -537,7 +537,7 @@
                                                                             "material":  "Madeira",
                                                                             "acabamento":  "Natural",
                                                                             "design":  "Sob medida",
-                                                                            "producao":  "Produção própria"
+                                                                            "producao":  "ProduçAo própria"
                                                                         }
                                                        },
                                            "quarto9":  {
@@ -551,7 +551,7 @@
                                                                             "material":  "Madeira",
                                                                             "acabamento":  "Natural",
                                                                             "design":  "Sob medida",
-                                                                            "producao":  "Produção própria"
+                                                                            "producao":  "ProduçAo própria"
                                                                         }
                                                        },
                                            "quarto10":  {
@@ -565,7 +565,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto11":  {
@@ -579,7 +579,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto12":  {
@@ -593,7 +593,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto13":  {
@@ -607,7 +607,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto14":  {
@@ -621,7 +621,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto15":  {
@@ -635,7 +635,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto16":  {
@@ -649,7 +649,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto17":  {
@@ -663,7 +663,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto18":  {
@@ -677,7 +677,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto19":  {
@@ -691,7 +691,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto20":  {
@@ -705,7 +705,7 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         },
                                            "quarto21":  {
@@ -719,14 +719,14 @@
                                                                              "material":  "Madeira",
                                                                              "acabamento":  "Natural",
                                                                              "design":  "Sob medida",
-                                                                             "producao":  "Produção própria"
+                                                                             "producao":  "ProduçAo própria"
                                                                          }
                                                         }
                                        },
                      "Outros_Moveis":  {
                                            "movel_tv_1":  {
                                                               "id":  "tv-1",
-                                                              "nome":  "MÃ³vel TV Orion",
+                                                              "nome":  "Móvel TV Orion",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/movel_tv_orion.jpg"
@@ -735,12 +735,12 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "movel_tv_2":  {
                                                               "id":  "tv-2",
-                                                              "nome":  "MÃ³vel TV Eclipse",
+                                                              "nome":  "Móvel TV Eclipse",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/movel_tv_eclipse.jpg",
@@ -750,12 +750,12 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "movel_tv_3":  {
                                                               "id":  "tv-3",
-                                                              "nome":  "MÃ³vel TV Graphite",
+                                                              "nome":  "Móvel TV Graphite",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/movel_tv_graphite.jpg"
@@ -764,12 +764,12 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "movel_tv_4":  {
                                                               "id":  "tv-4",
-                                                              "nome":  "MÃ³vel TV Amber",
+                                                              "nome":  "Móvel TV Amber",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/movel_tv_amber.jpg"
@@ -778,12 +778,12 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "movel_tv_5":  {
                                                               "id":  "tv-5",
-                                                              "nome":  "MÃ³vel TV Helios",
+                                                              "nome":  "Móvel TV Helios",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/movel_tv_helios.jpg"
@@ -792,7 +792,7 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "aparador_1":  {
@@ -806,7 +806,7 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "aparador_2":  {
@@ -820,7 +820,7 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "aparador_3":  {
@@ -835,7 +835,7 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "aparador_4":  {
@@ -849,7 +849,7 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "aparador_5":  {
@@ -864,7 +864,7 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "aparador_6":  {
@@ -878,7 +878,7 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "aparador_7":  {
@@ -892,12 +892,12 @@
                                                                                "material":  "Madeira",
                                                                                "acabamento":  "Natural",
                                                                                "design":  "Sob medida",
-                                                                               "producao":  "Produção própria"
+                                                                               "producao":  "ProduçAo própria"
                                                                            }
                                                           },
                                            "entrada_1":  {
                                                              "id":  "entrada-1",
-                                                             "nome":  "MÃ³vel Entrada Zenith",
+                                                             "nome":  "Móvel Entrada Zenith",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_zenith.jpg",
@@ -907,12 +907,12 @@
                                                                               "material":  "Madeira",
                                                                               "acabamento":  "Natural",
                                                                               "design":  "Sob medida",
-                                                                              "producao":  "Produção própria"
+                                                                              "producao":  "ProduçAo própria"
                                                                           }
                                                          },
                                            "entrada_2":  {
                                                              "id":  "entrada-2",
-                                                             "nome":  "MÃ³vel Entrada Legacy",
+                                                             "nome":  "Móvel Entrada Legacy",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_legacy.jpg"
@@ -921,12 +921,12 @@
                                                                               "material":  "Madeira",
                                                                               "acabamento":  "Natural",
                                                                               "design":  "Sob medida",
-                                                                              "producao":  "Produção própria"
+                                                                              "producao":  "ProduçAo própria"
                                                                           }
                                                          },
                                            "entrada_3":  {
                                                              "id":  "entrada-3",
-                                                             "nome":  "MÃ³vel Entrada Wonder",
+                                                             "nome":  "Móvel Entrada Wonder",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_wonder.jpg"
@@ -935,12 +935,12 @@
                                                                               "material":  "Madeira",
                                                                               "acabamento":  "Natural",
                                                                               "design":  "Sob medida",
-                                                                              "producao":  "Produção própria"
+                                                                              "producao":  "ProduçAo própria"
                                                                           }
                                                          },
                                            "entrada_4":  {
                                                              "id":  "entrada-4",
-                                                             "nome":  "MÃ³vel Entrada Prime",
+                                                             "nome":  "Móvel Entrada Prime",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_prime.jpg"
@@ -949,12 +949,12 @@
                                                                               "material":  "Madeira",
                                                                               "acabamento":  "Natural",
                                                                               "design":  "Sob medida",
-                                                                              "producao":  "Produção própria"
+                                                                              "producao":  "ProduçAo própria"
                                                                           }
                                                          },
                                            "entrada_5":  {
                                                              "id":  "entrada-5",
-                                                             "nome":  "MÃ³vel Entrada Grace",
+                                                             "nome":  "Móvel Entrada Grace",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_grace.jpg"
@@ -963,12 +963,12 @@
                                                                               "material":  "Madeira",
                                                                               "acabamento":  "Natural",
                                                                               "design":  "Sob medida",
-                                                                              "producao":  "Produção própria"
+                                                                              "producao":  "ProduçAo própria"
                                                                           }
                                                          },
                                            "entrada_6":  {
                                                              "id":  "entrada-6",
-                                                             "nome":  "MÃ³vel Entrada Vision",
+                                                             "nome":  "Móvel Entrada Vision",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_vision.jpg"
@@ -977,12 +977,12 @@
                                                                               "material":  "Madeira",
                                                                               "acabamento":  "Natural",
                                                                               "design":  "Sob medida",
-                                                                              "producao":  "Produção própria"
+                                                                              "producao":  "ProduçAo própria"
                                                                           }
                                                          },
                                            "entrada_7":  {
                                                              "id":  "entrada-7",
-                                                             "nome":  "MÃ³vel Entrada Elite",
+                                                             "nome":  "Móvel Entrada Elite",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_elite.jpg"
@@ -991,12 +991,12 @@
                                                                               "material":  "Madeira",
                                                                               "acabamento":  "Natural",
                                                                               "design":  "Sob medida",
-                                                                              "producao":  "Produção própria"
+                                                                              "producao":  "ProduçAo própria"
                                                                           }
                                                          },
                                            "entrada_8":  {
                                                              "id":  "entrada-8",
-                                                             "nome":  "MÃ³vel Entrada Supreme",
+                                                             "nome":  "Móvel Entrada Supreme",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_supreme.jpg"
@@ -1005,7 +1005,7 @@
                                                                               "material":  "Madeira",
                                                                               "acabamento":  "Natural",
                                                                               "design":  "Sob medida",
-                                                                              "producao":  "Produção própria"
+                                                                              "producao":  "ProduçAo própria"
                                                                           }
                                                          },
                                            "movel1":  {
@@ -1022,7 +1022,7 @@
                                                                            "material":  "Madeira",
                                                                            "acabamento":  "Natural",
                                                                            "design":  "Sob medida",
-                                                                           "producao":  "Produção própria"
+                                                                           "producao":  "ProduçAo própria"
                                                                        }
                                                       },
                                            "movel2":  {
@@ -1036,7 +1036,7 @@
                                                                            "material":  "Madeira",
                                                                            "acabamento":  "Natural",
                                                                            "design":  "Sob medida",
-                                                                           "producao":  "Produção própria"
+                                                                           "producao":  "ProduçAo própria"
                                                                        }
                                                       }
                                        },
@@ -1066,7 +1066,7 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Preto",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "mesa3":  {
@@ -1080,7 +1080,7 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "mesa4":  {
@@ -1094,7 +1094,7 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "mesa5":  {
@@ -1108,7 +1108,7 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "mesa6":  {
@@ -1122,7 +1122,7 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "mesa7":  {
@@ -1136,7 +1136,7 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "mesa8":  {
@@ -1150,7 +1150,7 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "mesa9":  {
@@ -1164,7 +1164,7 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "mesa10":  {
@@ -1178,7 +1178,7 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "mesa11":  {
@@ -1192,7 +1192,7 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "mesa12":  {
@@ -1206,7 +1206,7 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "mesa13":  {
@@ -1220,7 +1220,7 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "mesa14":  {
@@ -1234,7 +1234,7 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "mesa15":  {
@@ -1248,7 +1248,7 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "mesa16":  {
@@ -1262,7 +1262,7 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "mesa17":  {
@@ -1276,7 +1276,7 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "mesa18":  {
@@ -1290,7 +1290,7 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "mesa19":  {
@@ -1304,14 +1304,14 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               }
                                },
                      "Sofas":  {
                                    "sofa1":  {
                                                  "id":  "sofa-1",
-                                                 "nome":  "SofÃ¡ Porto",
+                                                 "nome":  "Sofá Porto",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_porto.jpg",
@@ -1323,12 +1323,12 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "sofa2":  {
                                                  "id":  "sofa-2",
-                                                 "nome":  "SofÃ¡ Paris",
+                                                 "nome":  "Sofá Paris",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_paris.jpg"
@@ -1337,12 +1337,12 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "sofa3":  {
                                                  "id":  "sofa-3",
-                                                 "nome":  "SofÃ¡ Vienna",
+                                                 "nome":  "Sofá Vienna",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_vienna.jpg",
@@ -1352,12 +1352,12 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "sofa4":  {
                                                  "id":  "sofa-4",
-                                                 "nome":  "SofÃ¡ London",
+                                                 "nome":  "Sofá London",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_london.jpg",
@@ -1367,12 +1367,12 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "sofa5":  {
                                                  "id":  "sofa-5",
-                                                 "nome":  "SofÃ¡ Madrid",
+                                                 "nome":  "Sofá Madrid",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_madrid.jpg",
@@ -1382,12 +1382,12 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "sofa6":  {
                                                  "id":  "sofa-6",
-                                                 "nome":  "SofÃ¡ Verona",
+                                                 "nome":  "Sofá Verona",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_verona.jpg"
@@ -1396,12 +1396,12 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "sofa7":  {
                                                  "id":  "sofa-7",
-                                                 "nome":  "SofÃ¡ Granada",
+                                                 "nome":  "Sofá Granada",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_granada.jpg",
@@ -1411,12 +1411,12 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "sofa8":  {
                                                  "id":  "sofa-8",
-                                                 "nome":  "SofÃ¡ Bristol",
+                                                 "nome":  "Sofá Bristol",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_bristol.jpg"
@@ -1425,12 +1425,12 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "sofa9":  {
                                                  "id":  "sofa-9",
-                                                 "nome":  "SofÃ¡ Dublin",
+                                                 "nome":  "Sofá Dublin",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_dublin.jpg"
@@ -1439,12 +1439,12 @@
                                                                   "material":  "Madeira",
                                                                   "acabamento":  "Natural",
                                                                   "design":  "Sob medida",
-                                                                  "producao":  "Produção própria"
+                                                                  "producao":  "ProduçAo própria"
                                                               }
                                              },
                                    "sofa10":  {
                                                   "id":  "sofa-10",
-                                                  "nome":  "SofÃ¡ Prague",
+                                                  "nome":  "Sofá Prague",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_prague.jpg"
@@ -1453,12 +1453,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa11":  {
                                                   "id":  "sofa-11",
-                                                  "nome":  "SofÃ¡ Monaco",
+                                                  "nome":  "Sofá Monaco",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_monaco.jpg"
@@ -1467,12 +1467,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa12":  {
                                                   "id":  "sofa-12",
-                                                  "nome":  "SofÃ¡ Copenhagen",
+                                                  "nome":  "Sofá Copenhagen",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_copenhagen.jpg",
@@ -1482,12 +1482,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa13":  {
                                                   "id":  "sofa-13",
-                                                  "nome":  "SofÃ¡ Lisbon",
+                                                  "nome":  "Sofá Lisbon",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_lisbon.jpg"
@@ -1496,12 +1496,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa14":  {
                                                   "id":  "sofa-14",
-                                                  "nome":  "SofÃ¡ Oxford",
+                                                  "nome":  "Sofá Oxford",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_oxford.jpg"
@@ -1510,12 +1510,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa15":  {
                                                   "id":  "sofa-15",
-                                                  "nome":  "SofÃ¡ Venice",
+                                                  "nome":  "Sofá Venice",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_venice.jpg"
@@ -1524,12 +1524,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa16":  {
                                                   "id":  "sofa-16",
-                                                  "nome":  "SofÃ¡ Rotterdam",
+                                                  "nome":  "Sofá Rotterdam",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_rotterdam.jpg"
@@ -1538,12 +1538,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa17":  {
                                                   "id":  "sofa-17",
-                                                  "nome":  "SofÃ¡ Oslo",
+                                                  "nome":  "Sofá Oslo",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_oslo.jpg"
@@ -1552,12 +1552,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa18":  {
                                                   "id":  "sofa-18",
-                                                  "nome":  "SofÃ¡ Amsterdam",
+                                                  "nome":  "Sofá Amsterdam",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_amsterdam.jpg"
@@ -1566,12 +1566,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa19":  {
                                                   "id":  "sofa-19",
-                                                  "nome":  "SofÃ¡ Valencia",
+                                                  "nome":  "Sofá Valencia",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_valencia.jpg"
@@ -1580,12 +1580,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa20":  {
                                                   "id":  "sofa-20",
-                                                  "nome":  "SofÃ¡ Barcelona",
+                                                  "nome":  "Sofá Barcelona",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_barcelona.jpg"
@@ -1594,12 +1594,12 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               },
                                    "sofa21":  {
                                                   "id":  "sofa-21",
-                                                  "nome":  "SofÃ¡ Marbella",
+                                                  "nome":  "Sofá Marbella",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_marbella.jpg"
@@ -1608,9 +1608,11 @@
                                                                    "material":  "Madeira",
                                                                    "acabamento":  "Natural",
                                                                    "design":  "Sob medida",
-                                                                   "producao":  "Produção própria"
+                                                                   "producao":  "ProduçAo própria"
                                                                }
                                               }
                                }
                  }
 }
+
+
