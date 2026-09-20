@@ -140,6 +140,11 @@ nav.site-nav:hover .nav-center{opacity:0;}
 #lbx-name{font-family:'Newsreader',serif;font-size:clamp(2rem,3vw,3rem);color:#f0dfd6;line-height:1.05;margin-bottom:14px;}
 #lbx-wood{display:none;}
 #lbx-badge{display:inline-block;padding:6px 16px;border-radius:9999px;background:rgba(38,30,24,0.7);backdrop-filter:blur(24px);-webkit-backdrop-filter:blur(24px);font-size:.62rem;font-weight:600;letter-spacing:0.18em;color:#e1c299;text-transform:uppercase;margin-bottom:24px;}
+
+@media (max-width: 900px) {
+  #lbx-wood { display: none !important; }
+  #lbx-badge { margin-bottom: 12px; }
+}
 #lbx-desc{font-family:'Manrope',sans-serif;font-weight:300;font-size:.95rem;line-height:1.8;color:rgba(240,223,214,0.62);max-width:420px;margin:28px 0 0;}
 .lbx-spec-list{list-style:none;display:flex;flex-direction:column;gap:10px;max-width:420px;margin:20px 0 0;padding:0;}
 .lbx-spec-list li{display:flex;flex-wrap:wrap;gap:6px;align-items:baseline;font-family:'Manrope',sans-serif;font-size:.9rem;line-height:1.7;color:rgba(240,223,214,0.72);}
@@ -175,9 +180,12 @@ nav.site-nav:hover .nav-center{opacity:0;}
   #lbx-close{top:16px;right:16px;width:44px;height:44px;}
 }
 @media(max-width:768px){
+  .nav-links{display:none !important;}
+  .nav-monogram{display:none !important;}
+  .nav-center{display:none !important;}
   .nav-burger{display:flex !important;}
   .mnav-panel{display:flex;}
-  .nav-bar{padding:18px 24px !important;pointer-events:none !important;}
+  .nav-bar{padding:18px 24px !important;pointer-events:none !important;opacity:0 !important;}
   .icon-sec{padding:80px 24px !important;}
   .icon-head{flex-direction:column !important;align-items:flex-start !important;gap:1.5rem !important;margin-bottom:56px !important;}
   .icon-grid{grid-template-columns:1fr !important;gap:40px !important;}
