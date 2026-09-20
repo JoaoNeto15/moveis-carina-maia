@@ -82,6 +82,11 @@ document.addEventListener('DOMContentLoaded', () => {
             category: collKey,
             wood: '',
             description: p.descricao || '',
+            material: p?.detalhes?.material || '',
+            acabamento: p?.detalhes?.acabamento || '',
+            design: p?.detalhes?.design || '',
+            producao: p?.detalhes?.producao || '',
+            detalhes: p?.detalhes || {},
             aspectRatio: '4/3',
             images: p.imagens || [],
           });
@@ -131,7 +136,23 @@ document.addEventListener('DOMContentLoaded', () => {
   const lbxName = document.getElementById('lbx-name');
   const lbxWood = document.getElementById('lbx-wood');
   const lbxDesc = document.getElementById('lbx-desc');
+  const lbxSpecs = document.getElementById('lbx-spec-list');
   const lbxInfo = document.getElementById('lbx-info');
+
+  function productSpecs(product) {
+    const details = product?.detalhes || {};
+    const specs = [
+      { label: 'Material', value: details.material ?? product.material ?? product.materiais ?? product.materia ?? 'Madeira' },
+      { label: 'Acabamento', value: details.acabamento ?? product.acabamento ?? product.finish ?? product.acabamentoFinal ?? 'Natural' },
+      { label: 'Design', value: details.design ?? product.design ?? product.estilo ?? 'Sob medida' },
+      { label: 'Produção', value: details.producao ?? product.producao ?? product.producaoP ?? product.fabricacao ?? 'Produção própria' }
+    ];
+
+    return specs.map((item) => ({
+      ...item,
+      value: String(item.value || '').trim() || 'Personalizado'
+    }));
+  }
 
   let piece = null;
   let angle = 0;
@@ -190,10 +211,11 @@ document.addEventListener('DOMContentLoaded', () => {
     lbxImg.style.transform = 'scale(1)';
 
     const label = categoryLabel(p.category);
+    const specs = productSpecs(p);
     lbxBadge.textContent = label;
     lbxBadge.style.display = label ? 'inline-block' : 'none';
     lbxName.textContent = p.name;
-    lbxWood.textContent = p.wood;
+    if (lbxWood) lbxWood.textContent = '';
     if (p.description && p.description.trim()) {
       lbxDesc.textContent = p.description;
       lbxDesc.style.display = '';
@@ -201,6 +223,10 @@ document.addEventListener('DOMContentLoaded', () => {
       lbxDesc.textContent = '';
       lbxDesc.style.display = 'none';
     }
+
+    lbxSpecs.innerHTML = specs.map((spec) => (
+      '<li><strong>' + spec.label + ':</strong> ' + spec.value + '</li>'
+    )).join('');
 
     lbxThumbs.innerHTML = '';
     p.images.forEach((img, i) => {
