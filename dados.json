@@ -42,10 +42,6 @@
                                                                  "id":  "cadeira-1",
                                                                  "nome":  "Cadeirão Daisy",
                                                                  "descricao":  "Cadeira Daisy com um design moderno, conforto envolvente e um toque de sofisticação em cada detalhe.",
-                                                                 "detalhes":  {
-                                                                                  "material":  "Madeira maciça",
-                                                                                  "acabamento":  "Nogueira"
-                                                                              },
                                                                  "imagens":  [
                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_daisy_1.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/cadeirao_daisy.jpg"
@@ -58,12 +54,7 @@
                                                                  "imagens":  [
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_iris_1.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_iris.jpg"
-                                                                             ],
-                                                                 "detalhes":  {
-                                                                                  "material":  "Madeira",
-                                                                                  "acabamento":  "Natural"
-                                                                              }
-                                                             },
+                                                                             ] },
                                                 "cadeira3":  {
                                                                  "id":  "cadeira-3",
                                                                  "nome":  "Cadeira Lavender",
@@ -72,12 +63,7 @@
                                                                                  "uploads/Cadeiras_Poltronas/lavender2.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/lavender1.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/lavender3.jpg"
-                                                                             ],
-                                                                 "detalhes":  {
-                                                                                  "material":  "Madeira",
-                                                                                  "acabamento":  "Natural"
-                                                                              }
-                                                             },
+                                                                             ] },
                                                 "cadeira4":  {
                                                                  "id":  "cadeira-4",
                                                                  "nome":  "Cadeira Orchid",
@@ -86,24 +72,14 @@
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_orchid2.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_orchid.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_orchid3.jpg"
-                                                                             ],
-                                                                 "detalhes":  {
-                                                                                  "material":  "Madeira",
-                                                                                  "acabamento":  "Natural"
-                                                                              }
-                                                             },
+                                                                             ] },
                                                 "cadeira5":  {
                                                                  "id":  "cadeira-5",
                                                                  "nome":  "Cadeira Tulip",
                                                                  "descricao":  "",
                                                                  "imagens":  [
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_tulip.jpg"
-                                                                             ],
-                                                                 "detalhes":  {
-                                                                                  "material":  "Madeira",
-                                                                                  "acabamento":  "Natural"
-                                                                              }
-                                                             },
+                                                                             ] },
                                                 "cadeira6":  {
                                                                  "id":  "cadeira-6",
                                                                  "nome":  "Cadeira Lotus",
@@ -111,12 +87,7 @@
                                                                  "imagens":  [
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_lotus.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_lotus_1.jpg"
-                                                                             ],
-                                                                 "detalhes":  {
-                                                                                  "material":  "Madeira",
-                                                                                  "acabamento":  "Natural"
-                                                                              }
-                                                             },
+                                                                             ] },
                                                 "cadeira7":  {
                                                                  "id":  "cadeira-7",
                                                                  "nome":  "Cadeira Sunflower",
@@ -125,12 +96,7 @@
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_sunflower.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_sunflower_1.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_sunflower_2.jpg"
-                                                                             ],
-                                                                 "detalhes":  {
-                                                                                  "material":  "Madeira",
-                                                                                  "acabamento":  "Natural"
-                                                                              }
-                                                             },
+                                                                             ] },
                                                 "cadeira8":  {
                                                                  "id":  "cadeira-8",
                                                                  "nome":  "Cadeira Camellia",
@@ -138,12 +104,7 @@
                                                                  "imagens":  [
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_camellia.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_camellia_1.jpg"
-                                                                             ],
-                                                                 "detalhes":  {
-                                                                                  "material":  "Madeira",
-                                                                                  "acabamento":  "Natural"
-                                                                              }
-                                                             },
+                                                                             ] },
                                                 "cadeira9":  {
                                                                  "id":  "cadeira-9",
                                                                  "nome":  "Cadeirão Peony",
@@ -151,12 +112,7 @@
                                                                  "imagens":  [
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_peony.jpg",
                                                                                  "uploads/Cadeiras_Poltronas/cadeira_peony_1.jpg"
-                                                                             ],
-                                                                 "detalhes":  {
-                                                                                  "material":  "Madeira",
-                                                                                  "acabamento":  "Natural"
-                                                                              }
-                                                             },
+                                                                             ] },
                                                 "cadeira10":  {
                                                                   "id":  "cadeira-10",
                                                                   "nome":  "Cadeira Anemone",
@@ -164,12 +120,7 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_anemone.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_anemone_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "cadeira11":  {
                                                                   "id":  "cadeira-11",
                                                                   "nome":  "Cadeira Rose",
@@ -177,12 +128,7 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_rose.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_rose_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "cadeira12":  {
                                                                   "id":  "cadeira-12",
                                                                   "nome":  "Cadeira Violet",
@@ -190,12 +136,7 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_violet.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_violet_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "cadeira13":  {
                                                                   "id":  "cadeira-13",
                                                                   "nome":  "Cadeira Jasmine",
@@ -203,12 +144,7 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_jasmine.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_jasmine_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "cadeira14":  {
                                                                   "id":  "cadeira-14",
                                                                   "nome":  "Cadeira Poppy",
@@ -216,12 +152,7 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_poppy.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_poppy_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "cadeira15":  {
                                                                   "id":  "cadeira-15",
                                                                   "nome":  "Cadeira Marigold",
@@ -229,12 +160,7 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_marigold.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_marigold_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "cadeira16":  {
                                                                   "id":  "cadeira-16",
                                                                   "nome":  "Cadeira Verbena",
@@ -242,12 +168,7 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_verbena.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_verbena_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "cadeira17":  {
                                                                   "id":  "cadeira-17",
                                                                   "nome":  "Cadeira Calendula",
@@ -255,12 +176,7 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_calendula.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_calendula_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "cadeira18":  {
                                                                   "id":  "cadeira-18",
                                                                   "nome":  "Cadeira Clematis",
@@ -268,24 +184,14 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_clematis.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeira_clematis_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "Cadeirão1":  {
                                                                   "id":  "Cadeirão-1",
                                                                   "nome":  "Banco Daisy",
                                                                   "descricao":  "",
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/banco_daisy.png"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "Cadeirão2":  {
                                                                   "id":  "Cadeirão-2",
                                                                   "nome":  "Poltrona Wisteria",
@@ -293,60 +199,35 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeirao_wisteria.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeirao_wisteria_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "Cadeirão3":  {
                                                                   "id":  "Cadeirão-3",
                                                                   "nome":  "Banco Cameliia",
                                                                   "descricao":  "",
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/banco_camellia.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "Cadeirão4":  {
                                                                   "id":  "Cadeirão-4",
                                                                   "nome":  "Banco Tulip",
                                                                   "descricao":  "",
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/banco_tulip.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "Cadeirão5":  {
                                                                   "id":  "Cadeirão-5",
                                                                   "nome":  "Cadeirão Anemone",
                                                                   "descricao":  "",
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeirao_anemone.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "Cadeirão6":  {
                                                                   "id":  "Cadeirão-6",
                                                                   "nome":  "Banco Sunflower",
                                                                   "descricao":  "",
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/banco_tulip.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "Cadeirão7":  {
                                                                   "id":  "Cadeirão-7",
                                                                   "nome":  "Cadeirão Tulip",
@@ -354,24 +235,14 @@
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/cadeirao_tulip.jpg",
                                                                                   "uploads/Cadeiras_Poltronas/cadeirao_tulip_1.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              },
+                                                                              ] },
                                                 "Cadeirão8":  {
                                                                   "id":  "Cadeirão-8",
                                                                   "nome":  "Poltrona Cosmos",
                                                                   "descricao":  "Cores Branco/Castanho/ Preto",
                                                                   "imagens":  [
                                                                                   "uploads/Cadeiras_Poltronas/poltrona_cosmos.jpg"
-                                                                              ],
-                                                                  "detalhes":  {
-                                                                                   "material":  "Madeira",
-                                                                                   "acabamento":  "Natural"
-                                                                               }
-                                                              }
+                                                                              ] }
                                             },
                      "Camas_Quartos":  {
                                            "quarto1":  {
@@ -381,24 +252,14 @@
                                                            "imagens":  [
                                                                            "uploads/Camas_Quartos/cama_eagle.jpg",
                                                                            "uploads/Camas_Quartos/cama_eagle1.jpg"
-                                                                       ],
-                                                           "detalhes":  {
-                                                                            "material":  "Madeira",
-                                                                            "acabamento":  "Natural"
-                                                                        }
-                                                       },
+                                                                       ] },
                                            "quarto2":  {
                                                            "id":  "quarto-2",
                                                            "nome":  "Cama Toucan",
                                                            "descricao":  "",
                                                            "imagens":  [
                                                                            "uploads/Camas_Quartos/cama_toucan.jpg"
-                                                                       ],
-                                                           "detalhes":  {
-                                                                            "material":  "Madeira",
-                                                                            "acabamento":  "Natural"
-                                                                        }
-                                                       },
+                                                                       ] },
                                            "quarto3":  {
                                                            "id":  "quarto-3",
                                                            "nome":  "Cama Elegance",
@@ -406,228 +267,133 @@
                                                            "imagens":  [
                                                                            "uploads/Camas_Quartos/cama_hawk.png",
                                                                            "uploads/Camas_Quartos/cama_hawk_1.png"
-                                                                       ],
-                                                           "detalhes":  {
-                                                                            "material":  "Madeira",
-                                                                            "acabamento":  "Natural"
-                                                                        }
-                                                       },
+                                                                       ] },
                                            "quarto4":  {
                                                            "id":  "quarto-4",
                                                            "nome":  "Cama Lark",
                                                            "descricao":  "",
                                                            "imagens":  [
                                                                            "uploads/Camas_Quartos/cama_lark.jpg"
-                                                                       ],
-                                                           "detalhes":  {
-                                                                            "material":  "Madeira",
-                                                                            "acabamento":  "Natural"
-                                                                        }
-                                                       },
+                                                                       ] },
                                            "quarto5":  {
                                                            "id":  "quarto-5",
                                                            "nome":  "Cama Skylark",
                                                            "descricao":  "",
                                                            "imagens":  [
                                                                            "uploads/Camas_Quartos/cama_skylark.jpg"
-                                                                       ],
-                                                           "detalhes":  {
-                                                                            "material":  "Madeira",
-                                                                            "acabamento":  "Natural"
-                                                                        }
-                                                       },
+                                                                       ] },
                                            "quarto6":  {
                                                            "id":  "quarto-6",
                                                            "nome":  "Cama Condor",
                                                            "descricao":  "",
                                                            "imagens":  [
                                                                            "uploads/Camas_Quartos/cama_condor.jpg"
-                                                                       ],
-                                                           "detalhes":  {
-                                                                            "material":  "Madeira",
-                                                                            "acabamento":  "Natural"
-                                                                        }
-                                                       },
+                                                                       ] },
                                            "quarto7":  {
                                                            "id":  "quarto-7",
                                                            "nome":  "Cama Kestrel",
                                                            "descricao":  "",
                                                            "imagens":  [
                                                                            "uploads/Camas_Quartos/cama_kestrel.jpg"
-                                                                       ],
-                                                           "detalhes":  {
-                                                                            "material":  "Madeira",
-                                                                            "acabamento":  "Natural"
-                                                                        }
-                                                       },
+                                                                       ] },
                                            "quarto8":  {
                                                            "id":  "quarto-8",
                                                            "nome":  "Cama Macaw",
                                                            "descricao":  "",
                                                            "imagens":  [
                                                                            "uploads/Camas_Quartos/cama_macaw.jpg"
-                                                                       ],
-                                                           "detalhes":  {
-                                                                            "material":  "Madeira",
-                                                                            "acabamento":  "Natural"
-                                                                        }
-                                                       },
+                                                                       ] },
                                            "quarto9":  {
                                                            "id":  "quarto-9",
                                                            "nome":  "Cama Osprey",
                                                            "descricao":  "",
                                                            "imagens":  [
                                                                            "uploads/Camas_Quartos/cama_osprey.jpg"
-                                                                       ],
-                                                           "detalhes":  {
-                                                                            "material":  "Madeira",
-                                                                            "acabamento":  "Natural"
-                                                                        }
-                                                       },
+                                                                       ] },
                                            "quarto10":  {
                                                             "id":  "quarto-10",
                                                             "nome":  "Cama Starling",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_starling.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto11":  {
                                                             "id":  "quarto-11",
                                                             "nome":  "Cama Robin",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_robin.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto12":  {
                                                             "id":  "quarto-12",
                                                             "nome":  "Cama Dove",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_dove.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto13":  {
                                                             "id":  "quarto-13",
                                                             "nome":  "Cama Swan",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_swan.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto14":  {
                                                             "id":  "quarto-14",
                                                             "nome":  "Cama Blackbird",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_blackbird.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto15":  {
                                                             "id":  "quarto-15",
                                                             "nome":  "Cama Goldfinch",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_goldfinch.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto16":  {
                                                             "id":  "quarto-16",
                                                             "nome":  "Cama Canary",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_canary.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto17":  {
                                                             "id":  "quarto-17",
                                                             "nome":  "Cama Flamingo",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_flamingo.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto18":  {
                                                             "id":  "quarto-18",
                                                             "nome":  "Cama Bluebird",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_bluebird.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto19":  {
                                                             "id":  "quarto-19",
                                                             "nome":  "Cama Raven",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_raven.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto20":  {
                                                             "id":  "quarto-20",
                                                             "nome":  "Cama Pelican",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_pelican.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        },
+                                                                        ] },
                                            "quarto21":  {
                                                             "id":  "quarto-21",
                                                             "nome":  "Cama parrot",
                                                             "descricao":  "",
                                                             "imagens":  [
                                                                             "uploads/Camas_Quartos/cama_parrot.jpg"
-                                                                        ],
-                                                            "detalhes":  {
-                                                                             "material":  "Madeira",
-                                                                             "acabamento":  "Natural"
-                                                                         }
-                                                        }
+                                                                        ] }
                                        },
                      "Outros_Moveis":  {
                                            "movel_tv_1":  {
@@ -636,12 +402,7 @@
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/movel_tv_orion.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "movel_tv_2":  {
                                                               "id":  "tv-2",
                                                               "nome":  "Móvel TV Eclipse",
@@ -649,72 +410,42 @@
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/movel_tv_eclipse.jpg",
                                                                               "uploads/Outros_Moveis/movel_tv_eclipse_1.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "movel_tv_3":  {
                                                               "id":  "tv-3",
                                                               "nome":  "Móvel TV Graphite",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/movel_tv_graphite.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "movel_tv_4":  {
                                                               "id":  "tv-4",
                                                               "nome":  "Móvel TV Amber",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/movel_tv_amber.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "movel_tv_5":  {
                                                               "id":  "tv-5",
                                                               "nome":  "Móvel TV Helios",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/movel_tv_helios.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "aparador_1":  {
                                                               "id":  "aparador-1",
                                                               "nome":  "Aparador Orion",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/aparador_orion.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "aparador_2":  {
                                                               "id":  "aparador-2",
                                                               "nome":  "Aparador Basalt",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/aparador_basalt.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "aparador_3":  {
                                                               "id":  "aparador-3",
                                                               "nome":  "Aparador Amber",
@@ -722,24 +453,14 @@
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/aparador_amber.jpg",
                                                                               "uploads/Outros_Moveis/aparador_amber_1.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "aparador_4":  {
                                                               "id":  "aparador-4",
                                                               "nome":  "Aparador Zircon",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/aparador_zircon.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "aparador_5":  {
                                                               "id":  "aparador-5",
                                                               "nome":  "Aparador Eclipse",
@@ -747,36 +468,21 @@
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/aparador_eclipse.jpg",
                                                                               "uploads/Outros_Moveis/aparador_eclipse_1.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "aparador_6":  {
                                                               "id":  "aparador-6",
                                                               "nome":  "Aparador Ruby",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/aparador_ruby.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "aparador_7":  {
                                                               "id":  "aparador-7",
                                                               "nome":  "Aparador Marble",
                                                               "descricao":  "",
                                                               "imagens":  [
                                                                               "uploads/Outros_Moveis/aparador_marble.jpg"
-                                                                          ],
-                                                              "detalhes":  {
-                                                                               "material":  "Madeira",
-                                                                               "acabamento":  "Natural"
-                                                                           }
-                                                          },
+                                                                          ] },
                                            "entrada_1":  {
                                                              "id":  "entrada-1",
                                                              "nome":  "Móvel Entrada Zenith",
@@ -784,96 +490,56 @@
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_zenith.jpg",
                                                                              "uploads/Outros_Moveis/movel_entrada_zenith_1.jpg"
-                                                                         ],
-                                                             "detalhes":  {
-                                                                              "material":  "Madeira",
-                                                                              "acabamento":  "Natural"
-                                                                          }
-                                                         },
+                                                                         ] },
                                            "entrada_2":  {
                                                              "id":  "entrada-2",
                                                              "nome":  "Móvel Entrada Legacy",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_legacy.jpg"
-                                                                         ],
-                                                             "detalhes":  {
-                                                                              "material":  "Madeira",
-                                                                              "acabamento":  "Natural"
-                                                                          }
-                                                         },
+                                                                         ] },
                                            "entrada_3":  {
                                                              "id":  "entrada-3",
                                                              "nome":  "Móvel Entrada Wonder",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_wonder.jpg"
-                                                                         ],
-                                                             "detalhes":  {
-                                                                              "material":  "Madeira",
-                                                                              "acabamento":  "Natural"
-                                                                          }
-                                                         },
+                                                                         ] },
                                            "entrada_4":  {
                                                              "id":  "entrada-4",
                                                              "nome":  "Móvel Entrada Prime",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_prime.jpg"
-                                                                         ],
-                                                             "detalhes":  {
-                                                                              "material":  "Madeira",
-                                                                              "acabamento":  "Natural"
-                                                                          }
-                                                         },
+                                                                         ] },
                                            "entrada_5":  {
                                                              "id":  "entrada-5",
                                                              "nome":  "Móvel Entrada Grace",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_grace.jpg"
-                                                                         ],
-                                                             "detalhes":  {
-                                                                              "material":  "Madeira",
-                                                                              "acabamento":  "Natural"
-                                                                          }
-                                                         },
+                                                                         ] },
                                            "entrada_6":  {
                                                              "id":  "entrada-6",
                                                              "nome":  "Móvel Entrada Vision",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_vision.jpg"
-                                                                         ],
-                                                             "detalhes":  {
-                                                                              "material":  "Madeira",
-                                                                              "acabamento":  "Natural"
-                                                                          }
-                                                         },
+                                                                         ] },
                                            "entrada_7":  {
                                                              "id":  "entrada-7",
                                                              "nome":  "Móvel Entrada Elite",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_elite.jpg"
-                                                                         ],
-                                                             "detalhes":  {
-                                                                              "material":  "Madeira",
-                                                                              "acabamento":  "Natural"
-                                                                          }
-                                                         },
+                                                                         ] },
                                            "entrada_8":  {
                                                              "id":  "entrada-8",
                                                              "nome":  "Móvel Entrada Supreme",
                                                              "descricao":  "",
                                                              "imagens":  [
                                                                              "uploads/Outros_Moveis/movel_entrada_supreme.jpg"
-                                                                         ],
-                                                             "detalhes":  {
-                                                                              "material":  "Madeira",
-                                                                              "acabamento":  "Natural"
-                                                                          }
-                                                         },
+                                                                         ] },
                                            "movel1":  {
                                                           "id":  "movel-1",
                                                           "nome":  "Mesinhas Cabeceira",
@@ -883,24 +549,14 @@
                                                                           "uploads/Outros_Moveis/mesinha1_2.jpg",
                                                                           "uploads/Outros_Moveis/mesinha2.jpg",
                                                                           "uploads/Outros_Moveis/mesinha2_1.jpg"
-                                                                      ],
-                                                          "detalhes":  {
-                                                                           "material":  "Madeira",
-                                                                           "acabamento":  "Natural"
-                                                                       }
-                                                      },
+                                                                      ] },
                                            "movel2":  {
                                                           "id":  "movel-2",
                                                           "nome":  "Sala Revestida a Madeira",
                                                           "descricao":  "",
                                                           "imagens":  [
                                                                           "uploads/Outros_Moveis/sala_casa.jpg"
-                                                                      ],
-                                                          "detalhes":  {
-                                                                           "material":  "Madeira",
-                                                                           "acabamento":  "Natural"
-                                                                       }
-                                                      }
+                                                                      ] }
                                        },
                      "Mesas":  {
                                    "mesa1":  {
@@ -909,228 +565,133 @@
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Outros_Moveis/Mesas/mesa_luna.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "mesa2":  {
                                                  "id":  "mesa-2",
                                                  "nome":  "Mesa Aria",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Outros_Moveis/Mesas/mesa_aria.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Preto"
-                                                              }
-                                             },
+                                                             ] },
                                    "mesa3":  {
                                                  "id":  "mesa-3",
                                                  "nome":  "Mesa Nara",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Outros_Moveis/Mesas/mesa_nara.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "mesa4":  {
                                                  "id":  "mesa-4",
                                                  "nome":  "Mesa Elara",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Outros_Moveis/Mesas/mesa_elara.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "mesa5":  {
                                                  "id":  "mesa-5",
                                                  "nome":  "Mesa Mira",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Outros_Moveis/Mesas/mesa_mira.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "mesa6":  {
                                                  "id":  "mesa-6",
                                                  "nome":  "Mesa Luma",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Outros_Moveis/Mesas/mesa_luma.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "mesa7":  {
                                                  "id":  "mesa-7",
                                                  "nome":  "Mesa Alma",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Outros_Moveis/Mesas/mesa_alma.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "mesa8":  {
                                                  "id":  "mesa-8",
                                                  "nome":  "Mesa Maya",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Outros_Moveis/Mesas/mesa_maya.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "mesa9":  {
                                                  "id":  "mesa-9",
                                                  "nome":  "Mesa Kira",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Outros_Moveis/Mesas/mesa_kira.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "mesa10":  {
                                                   "id":  "mesa-10",
                                                   "nome":  "Mesa Nova",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Outros_Moveis/Mesas/mesa_nova.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "mesa11":  {
                                                   "id":  "mesa-11",
                                                   "nome":  "Mesa Aura",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Outros_Moveis/Mesas/mesa_aura.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "mesa12":  {
                                                   "id":  "mesa-12",
                                                   "nome":  "Mesa Nila",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Outros_Moveis/Mesas/mesa_nila.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "mesa13":  {
                                                   "id":  "mesa-13",
                                                   "nome":  "Mesa Nola",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Outros_Moveis/Mesas/mesa_nola.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "mesa14":  {
                                                   "id":  "mesa-14",
                                                   "nome":  "Mesa Aira",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Outros_Moveis/Mesas/mesa_aira.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "mesa15":  {
                                                   "id":  "mesa-15",
                                                   "nome":  "Mesa Sora",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Outros_Moveis/Mesas/mesa_sora.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "mesa16":  {
                                                   "id":  "mesa-16",
                                                   "nome":  "Mesa Stella",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Outros_Moveis/Mesas/mesa_stella.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "mesa17":  {
                                                   "id":  "mesa-17",
                                                   "nome":  "Mesa Yara",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Outros_Moveis/Mesas/mesa_yara.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "mesa18":  {
                                                   "id":  "mesa-18",
                                                   "nome":  "Mesa Vita",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Outros_Moveis/Mesas/mesa_vita.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "mesa19":  {
                                                   "id":  "mesa-19",
                                                   "nome":  "Mesa Sole",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Outros_Moveis/Mesas/mesa_sole.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              }
+                                                              ] }
                                },
                      "Sofas":  {
                                    "sofa1":  {
@@ -1140,24 +701,14 @@
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_porto.jpg",
                                                                  "uploads/Sofas/sofa1_2.png"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "",
-                                                                  "acabamento":  "Madeira, Tecido"
-                                                              }
-                                             },
+                                                             ] },
                                    "sofa2":  {
                                                  "id":  "sofa-2",
                                                  "nome":  "Sofá Paris",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_paris.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "sofa3":  {
                                                  "id":  "sofa-3",
                                                  "nome":  "Sofá Vienna",
@@ -1165,12 +716,7 @@
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_vienna.jpg",
                                                                  "uploads/Sofas/sofa_vienna_1.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "sofa4":  {
                                                  "id":  "sofa-4",
                                                  "nome":  "Sofá London",
@@ -1178,12 +724,7 @@
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_london.jpg",
                                                                  "uploads/Sofas/sofa_london2.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "sofa5":  {
                                                  "id":  "sofa-5",
                                                  "nome":  "Sofá Madrid",
@@ -1191,24 +732,14 @@
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_madrid.jpg",
                                                                  "uploads/Sofas/sofa_madrid2.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "sofa6":  {
                                                  "id":  "sofa-6",
                                                  "nome":  "Sofá Verona",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_verona.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "sofa7":  {
                                                  "id":  "sofa-7",
                                                  "nome":  "Sofá Granada",
@@ -1216,60 +747,35 @@
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_granada.jpg",
                                                                  "uploads/Sofas/sofa_granada_1.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "sofa8":  {
                                                  "id":  "sofa-8",
                                                  "nome":  "Sofá Bristol",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_bristol.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "sofa9":  {
                                                  "id":  "sofa-9",
                                                  "nome":  "Sofá Dublin",
                                                  "descricao":  "",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_dublin.jpg"
-                                                             ],
-                                                 "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
-                                                              }
-                                             },
+                                                             ] },
                                    "sofa10":  {
                                                   "id":  "sofa-10",
                                                   "nome":  "Sofá Prague",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_prague.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa11":  {
                                                   "id":  "sofa-11",
                                                   "nome":  "Sofá Monaco",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_monaco.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa12":  {
                                                   "id":  "sofa-12",
                                                   "nome":  "Sofá Copenhagen",
@@ -1277,120 +783,71 @@
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_copenhagen.jpg",
                                                                   "uploads/Sofas/sofa_copenhagen_1.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa13":  {
                                                   "id":  "sofa-13",
                                                   "nome":  "Sofá Lisbon",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_lisbon.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa14":  {
                                                   "id":  "sofa-14",
                                                   "nome":  "Sofá Oxford",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_oxford.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa15":  {
                                                   "id":  "sofa-15",
                                                   "nome":  "Sofá Venice",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_venice.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa16":  {
                                                   "id":  "sofa-16",
                                                   "nome":  "Sofá Rotterdam",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_rotterdam.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa17":  {
                                                   "id":  "sofa-17",
                                                   "nome":  "Sofá Oslo",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_oslo.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa18":  {
                                                   "id":  "sofa-18",
                                                   "nome":  "Sofá Amsterdam",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_amsterdam.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa19":  {
                                                   "id":  "sofa-19",
                                                   "nome":  "Sofá Valencia",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_valencia.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa20":  {
                                                   "id":  "sofa-20",
                                                   "nome":  "Sofá Barcelona",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_barcelona.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              },
+                                                              ] },
                                    "sofa21":  {
                                                   "id":  "sofa-21",
                                                   "nome":  "Sofá Marbella",
                                                   "descricao":  "",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_marbella.jpg"
-                                                              ],
-                                                  "detalhes":  {
-                                                                   "material":  "Madeira",
-                                                                   "acabamento":  "Natural"
-                                                               }
-                                              }
+                                                              ] }
                                }
                  }
 }
+

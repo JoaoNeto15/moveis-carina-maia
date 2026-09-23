@@ -82,11 +82,6 @@ document.addEventListener('DOMContentLoaded', () => {
             category: collKey,
             wood: '',
             description: p.descricao || '',
-            material: p?.detalhes?.material || '',
-            acabamento: p?.detalhes?.acabamento || '',
-            design: p?.detalhes?.design || '',
-            producao: p?.detalhes?.producao || '',
-            detalhes: p?.detalhes || {},
             aspectRatio: '4/3',
             images: p.imagens || [],
           });
@@ -159,16 +154,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function productSpecs(product) {
-    const details = product?.detalhes || {};
-    const specs = [
-      { label: 'Material', value: details.material ?? product.material ?? product.materiais ?? product.materia ?? 'Madeira' },
-      { label: 'Acabamento', value: details.acabamento ?? product.acabamento ?? product.finish ?? product.acabamentoFinal ?? 'Natural' }
-    ];
-
-    return specs.map((item) => ({
-      ...item,
-      value: String(item.value || '').trim() || 'Personalizado'
-    }));
+    return [];
   }
 
   let piece = null;
@@ -228,8 +214,7 @@ document.addEventListener('DOMContentLoaded', () => {
     lbxImg.style.transform = 'scale(1)';
 
     const label = categoryLabel(p.category);
-    const specs = productSpecs(p);
-    updateMaterialItem(p.category);
+    productSpecs(p);
     lbxBadge.textContent = label;
     lbxBadge.style.display = label ? 'inline-block' : 'none';
     lbxName.textContent = p.name;
