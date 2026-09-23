@@ -138,6 +138,25 @@ document.addEventListener('DOMContentLoaded', () => {
   const lbxDesc = document.getElementById('lbx-desc');
   const lbxSpecs = document.getElementById('lbx-spec-list');
   const lbxInfo = document.getElementById('lbx-info');
+  const lbxPersonalizacaoToggle = document.getElementById('lbx-personalizacao-toggle');
+  const lbxPersonalizacaoPanel = document.getElementById('lbx-personalizacao-panel');
+  const lbxMaterialItem = document.getElementById('lbx-material-item');
+
+  function togglePersonalizacao(open) {
+    const shouldOpen = typeof open === 'boolean' ? open : lbxPersonalizacaoPanel.hidden;
+    lbxPersonalizacaoPanel.hidden = !shouldOpen;
+    lbxPersonalizacaoToggle.setAttribute('aria-expanded', String(shouldOpen));
+  }
+
+  function updateMaterialItem(category) {
+    if (!lbxMaterialItem) return;
+    const key = String(category || '').trim();
+    if (key === 'Outros_Moveis' || key === 'Mesas') {
+      lbxMaterialItem.textContent = 'Materiais (Madeiras, mármores e metais)';
+      return;
+    }
+    lbxMaterialItem.textContent = 'Materiais (Madeiras e metais)';
+  }
 
   function productSpecs(product) {
     const details = product?.detalhes || {};
@@ -210,6 +229,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const label = categoryLabel(p.category);
     const specs = productSpecs(p);
+    updateMaterialItem(p.category);
     lbxBadge.textContent = label;
     lbxBadge.style.display = label ? 'inline-block' : 'none';
     lbxName.textContent = p.name;
@@ -222,9 +242,9 @@ document.addEventListener('DOMContentLoaded', () => {
       lbxDesc.style.display = 'none';
     }
 
-    lbxSpecs.innerHTML = specs.map((spec) => (
-      '<li><strong>' + spec.label + ':</strong> ' + spec.value + '</li>'
-    )).join('');
+    lbxSpecs.innerHTML = '';
+    lbxSpecs.style.display = 'none';
+    togglePersonalizacao(false);
 
     lbxThumbs.innerHTML = '';
     p.images.forEach((img, i) => {
@@ -263,6 +283,11 @@ document.addEventListener('DOMContentLoaded', () => {
     lbx.classList.remove('lbx-open');
     document.body.style.overflow = '';
   }
+
+  lbxPersonalizacaoToggle.addEventListener('click', () => {
+    const isOpen = lbxPersonalizacaoToggle.getAttribute('aria-expanded') === 'true';
+    togglePersonalizacao(!isOpen);
+  });
 
   lbxClose.addEventListener('click', closeLbx);
   lbxBg.addEventListener('click', closeLbx);

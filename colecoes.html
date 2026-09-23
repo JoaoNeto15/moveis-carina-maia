@@ -128,7 +128,22 @@
           <div id="lbx-badge"></div>
           <div id="lbx-name"></div>
           <div id="lbx-desc"></div>
-          <ul id="lbx-spec-list" class="lbx-spec-list" aria-label="Especificações do produto"></ul>
+          <ul id="lbx-spec-list" class="lbx-spec-list" aria-label="Especificações do produto" style="display:none;"></ul>
+
+          <div class="lbx-personalizacao" aria-live="polite">
+            <button id="lbx-personalizacao-toggle" class="lbx-personalizacao-toggle" type="button" aria-expanded="false">
+              <span>PERSONALIZAÇÃO</span>
+              <span class="lbx-personalizacao-icon">+</span>
+            </button>
+            <div id="lbx-personalizacao-panel" class="lbx-personalizacao-panel" hidden>
+              <p>Todos os produtos em exibição podem ser personalizáveis. Pelo que poderá solicitar o apoio através dos nossos contactos.</p>
+              <ul>
+                <li>Tamanho</li>
+                <li>Estofos (tecidos e peles)</li>
+                <li id="lbx-material-item">Materiais (Madeiras, mármores e metais)</li>
+              </ul>
+            </div>
+          </div>
         </div>
         <div id="lbx-dots"></div>
       </aside>

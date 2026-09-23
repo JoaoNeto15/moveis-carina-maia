@@ -150,6 +150,18 @@ nav.site-nav:hover .nav-center{opacity:0;}
 .lbx-spec-list li{display:flex;flex-wrap:wrap;gap:4px;align-items:baseline;font-family:'Manrope',sans-serif;font-size:0.8rem;line-height:1.5;letter-spacing:0.02em;color:rgba(240,223,214,0.72);}
 .lbx-spec-list strong{font-weight:600;color:#f0dfd6;}
 
+.lbx-personalizacao{max-width:420px;margin-top:24px;border-top:1px solid rgba(240,223,214,0.14);padding-top:18px;}
+.lbx-personalizacao-toggle{width:100%;display:flex;align-items:center;justify-content:space-between;gap:12px;border:none;background:none;color:#f0dfd6;padding:0 0 10px;font-family:'Manrope',sans-serif;font-size:0.78rem;font-weight:700;letter-spacing:0.16em;cursor:pointer;text-align:left;}
+.lbx-personalizacao-icon{font-size:1.4rem;line-height:1;color:#e1c299;transition:transform 0.25s ease-in-out;}
+.lbx-personalizacao-toggle[aria-expanded="true"] .lbx-personalizacao-icon{transform:rotate(45deg);}
+.lbx-personalizacao-panel{padding:8px 0 0;display:grid;grid-template-rows:0fr;transition:grid-template-rows 0.25s ease-in-out;overflow:hidden;}
+.lbx-personalizacao-panel:not([hidden]){grid-template-rows:1fr;}
+.lbx-personalizacao-panel > *{overflow:hidden;}
+.lbx-personalizacao-panel p{font-family:'Manrope',sans-serif;font-size:0.88rem;line-height:1.7;color:rgba(240,223,214,0.73);margin-bottom:12px;}
+.lbx-personalizacao-panel ul{list-style:none;display:flex;flex-direction:column;gap:7px;padding:0;margin:0;}
+.lbx-personalizacao-panel li{position:relative;padding-left:14px;font-family:'Manrope',sans-serif;font-size:0.82rem;line-height:1.5;color:rgba(240,223,214,0.8);}
+.lbx-personalizacao-panel li::before{content:'■';position:absolute;left:0;top:0;color:#e1c299;font-size:0.7rem;}
+
 /* ===================================================================
    RESPONSIVE
    =================================================================== */

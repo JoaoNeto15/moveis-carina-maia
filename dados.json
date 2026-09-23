@@ -1136,16 +1136,14 @@
                                    "sofa1":  {
                                                  "id":  "sofa-1",
                                                  "nome":  "Sofá Porto",
-                                                 "descricao":  "",
+                                                 "descricao":  " Sofa Porto com 3 lugares e chaise longue esquerda, estofado a tecido texturado cinza. Estrutura em madeira. ",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_porto.jpg",
-                                                                 "uploads/Sofas/sofa1_2.png",
-                                                                 "uploads/Sofas/sofa1_4.jpg",
-                                                                 "uploads/Sofas/sofa1_5.jpg"
+                                                                 "uploads/Sofas/sofa1_2.png"
                                                              ],
                                                  "detalhes":  {
-                                                                  "material":  "Madeira",
-                                                                  "acabamento":  "Natural"
+                                                                  "material":  "",
+                                                                  "acabamento":  "Madeira, Tecido"
                                                               }
                                              },
                                    "sofa2":  {
