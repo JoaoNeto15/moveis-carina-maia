@@ -146,11 +146,13 @@ document.addEventListener('DOMContentLoaded', () => {
   function updateMaterialItem(category) {
     if (!lbxMaterialItem) return;
     const key = String(category || '').trim();
-    if (key === 'Outros_Moveis' || key === 'Mesas') {
+    // Show "Madeiras e metais" only for the main furniture categories
+    const simpleCats = ['Sofas', 'Cadeiras_Poltronas', 'Camas_Quartos'];
+    if (simpleCats.includes(key)) {
+      lbxMaterialItem.textContent = 'Materiais (Madeiras e metais)';
+    } else {
       lbxMaterialItem.textContent = 'Materiais (Madeiras, mármores e metais)';
-      return;
     }
-    lbxMaterialItem.textContent = 'Materiais (Madeiras e metais)';
   }
 
   function productSpecs(product) {
@@ -218,6 +220,7 @@ document.addEventListener('DOMContentLoaded', () => {
     lbxBadge.textContent = label;
     lbxBadge.style.display = label ? 'inline-block' : 'none';
     lbxName.textContent = p.name;
+    updateMaterialItem(p.category);
     if (lbxWood) lbxWood.textContent = '';
     if (p.description && p.description.trim()) {
       lbxDesc.textContent = p.description;
