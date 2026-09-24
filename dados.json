@@ -705,14 +705,14 @@
                                    "sofa2":  {
                                                  "id":  "sofa-2",
                                                  "nome":  "Sofá Paris",
-                                                 "descricao":  "",
+                                                 "descricao":  " Sofa em U com canto e chaise longue com 6 Lugares.  ",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_paris.jpg"
                                                              ] },
                                    "sofa3":  {
                                                  "id":  "sofa-3",
                                                  "nome":  "Sofá Vienna",
-                                                 "descricao":  "",
+                                                 "descricao":  "Sofa em U com 2 Luagres e 2 chaise longue. Estofado a tecido Aveludado Castanho.",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_vienna.jpg",
                                                                  "uploads/Sofas/sofa_vienna_1.jpg"
@@ -720,7 +720,7 @@
                                    "sofa4":  {
                                                  "id":  "sofa-4",
                                                  "nome":  "Sofá London",
-                                                 "descricao":  "",
+                                                 "descricao":  "Sofá com 3 Lugares e 2 chaise longue com tamanhos diferentes. Estofado a tecido cinza.",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_london.jpg",
                                                                  "uploads/Sofas/sofa_london2.jpg"
@@ -728,7 +728,7 @@
                                    "sofa5":  {
                                                  "id":  "sofa-5",
                                                  "nome":  "Sofá Madrid",
-                                                 "descricao":  "",
+                                                 "descricao":  "Sofa 2 Lugares com chaise longe e cabeços rebativeis. Estofado em tecido Beje",
                                                  "imagens":  [
                                                                  "uploads/Sofas/sofa_madrid.jpg",
                                                                  "uploads/Sofas/sofa_madrid2.jpg"
@@ -772,14 +772,14 @@
                                    "sofa11":  {
                                                   "id":  "sofa-11",
                                                   "nome":  "Sofá Monaco",
-                                                  "descricao":  "",
+                                                  "descricao":  "Sofá 2 Lugares(XL), em tecido castanho",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_monaco.jpg"
                                                               ] },
                                    "sofa12":  {
                                                   "id":  "sofa-12",
                                                   "nome":  "Sofá Copenhagen",
-                                                  "descricao":  "",
+                                                  "descricao":  "Sofá 2 Lugres com chaise longue, em tecido beje",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_copenhagen.jpg",
                                                                   "uploads/Sofas/sofa_copenhagen_1.jpg"
@@ -801,7 +801,7 @@
                                    "sofa15":  {
                                                   "id":  "sofa-15",
                                                   "nome":  "Sofá Venice",
-                                                  "descricao":  "",
+                                                  "descricao":  " Sofá 2 lugares com chaise longue. Estofado com tecido branco e com pes metalicos pretos.",
                                                   "imagens":  [
                                                                   "uploads/Sofas/sofa_venice.jpg"
                                                               ] },
